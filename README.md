@@ -1,6 +1,6 @@
 
 
-| Category   | Subcategory      | Models             | ArXiv Link              | Repo |
+| Category   | Subcategory      | Models             | ArXiv Link              |
 |----------------------|-------------------------------|----------------------------------------|------------------------------------|
 | LLM     | Open sourced LLM    | BERT      | [devlin2019bert](https://arxiv.org/abs/1810.04805)  | 
 |      |         | T5                 | [raffel2023exploring](https://arxiv.org/abs/1910.10683)  |
