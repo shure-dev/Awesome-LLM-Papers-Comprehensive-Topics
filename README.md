@@ -1,9 +1,9 @@
 
 
 | Category   | Subcategory      | Models             | ArXiv Link              | Repo |
-|----------------------|-------------------------------|----------------------------------------|------------------------------------|---------------------------|
-| LLM     | Open sourced LLM    | BERT      | [devlin2019bert](https://arxiv.org/abs/1810.04805)  | ![GitHub Repo stars](https://img.shields.io/github/stars/google-research/bert) |
-|      |         | T5                 | [raffel2023exploring](https://arxiv.org/abs/1910.10683)  | https://github.com/google-research/bert |
+|----------------------|-------------------------------|----------------------------------------|------------------------------------|
+| LLM     | Open sourced LLM    | BERT      | [devlin2019bert](https://arxiv.org/abs/1810.04805)  | 
+|      |         | T5                 | [raffel2023exploring](https://arxiv.org/abs/1910.10683)  |
 |      |         | LLaMA                | [touvron2023llama](https://arxiv.org/abs/2302.13971)  |
 |      |  Closed sourced LLM   | GPT3                 | [brown2020language](https://arxiv.org/abs/2005.14165)  |
 |      |         | GPT4                 | [openai2023gpt4](https://arxiv.org/abs/2303.08774)  |
