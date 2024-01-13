@@ -66,17 +66,17 @@
 |                                |                                | Language Models as Zero-Shot Planners                     | [huang2022language](https://arxiv.org/abs/2201.07207)      |
 |                                |                                | SayPlan                                                   | [rana2023sayplan](https://arxiv.org/abs/2307.06135)        |
 |                                |                                | DOREMI                                                    | [guo2023doremi](https://arxiv.org/abs/2307.00329)          |
-|                                | Low-level output               | SayTap                                                    | [tang2023saytap](https://arxiv.org/abs/2309.03623)         |
-|                                |                                | Prompt a Robot to Walk                                    | [wang2023prompt](https://arxiv.org/abs/2310.03248)         |
-|                                | Multimodal Data injection      | 3D-LLM                                                    | [hong20233dllm](https://arxiv.org/abs/2308.11323)          |
-|                                |                                | LiDAR-LLM                                                 | [yang2023lidarllm](https://arxiv.org/abs/2310.04249)       |
-|                                | Data generation                | Gensim                                                    | [wang2023gensim](https://arxiv.org/abs/2307.01234)         |
-|                                | Planning                       | Embodied Task Planning                                    | [wu2023embodied](https://arxiv.org/abs/2306.08127)         |
-|                                | Self-improvement               | REFLECT                                                   | [liu2023reflect](https://arxiv.org/abs/2310.07654)         |
-|                                |                                | Reflexion                                                 | [shinn2023reflexion](https://arxiv.org/abs/2309.10432)     |
-|                                | Chain of Thought               | EmbodiedGPT                                               | [mu2023embodiedgpt](https://arxiv.org/abs/2308.05123)      |
-|                                | Survey papers                  | Toward General-Purpose                                    | [hu2023generalpurpose](https://arxiv.org/abs/2305.11432)   |
+|                                | Low-level output               | SayTap                                                    | [tang2023saytap](https://arxiv.org/abs/2306.07580)         |
+|                                |                                | Prompt a Robot to Walk                                    | [wang2023prompt](https://arxiv.org/abs/2309.09969)         |
+|                                | Multimodal Data injection      | 3D-LLM                                                    | [hong20233dllm](https://arxiv.org/abs/2307.12981)          |
+|                                |                                | LiDAR-LLM                                                 | [yang2023lidarllm](https://arxiv.org/abs/2312.14074)       |
+|                                | Data generation                | Gensim                                                    | [wang2023gensim](https://arxiv.org/abs/2310.01361)         |
+|                                | Planning                       | Embodied Task Planning                                    | [wu2023embodied](https://arxiv.org/abs/2307.01848)         |
+|                                | Self-improvement               | REFLECT                                                   | [liu2023reflect](https://arxiv.org/abs/2306.15724)         |
+|                                |                                | Reflexion                                                 | [shinn2023reflexion](https://arxiv.org/abs/2303.11366)     |
+|                                | Chain of Thought               | EmbodiedGPT                                               | [mu2023embodiedgpt](https://arxiv.org/abs/2305.15021)      |
+|                                | Survey papers                  | Toward General-Purpose                                    | [hu2023generalpurpose](https://arxiv.org/abs/2312.08782)   |
 |                                |                                | Language-conditioned                               | [zhou2023languageconditioned](https://arxiv.org/abs/2312.10807)|
-|                                |                                | Foundation Models                                  | [firoozi2023foundation](https://arxiv.org/abs/2310.09987)  |
-|                                |                                | Robot Learning                                            | [xiao2023robot](https://arxiv.org/abs/2309.11234)          |
-|                                |                                | The Development of LLMs                                   | [lin2023development](https://arxiv.org/abs/2308.06789)     |
+|                                |                                | Foundation Models                                  | [firoozi2023foundation](https://arxiv.org/abs/2312.07843)  |
+|                                |                                | Robot Learning                                            | [xiao2023robot](https://arxiv.org/abs/2311.14379)          |
+|                                |                                | The Development of LLMs                                   | [lin2023development](https://arxiv.org/abs/2311.00530)     |
