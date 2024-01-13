@@ -1,4 +1,3 @@
-Sure, I can help you create a table with hyperlinks to the respective Arxiv papers for each of the entries. This will involve matching the provided `\cite{}` references with their corresponding Arxiv links. Here's how the table would look:
 
 | Category            | Subcategory                   | Models and Papers                                                      |
 |----------------------|-------------------------------|------------------------------------------------------------------------|
