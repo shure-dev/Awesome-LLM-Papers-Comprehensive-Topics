@@ -1,7 +1,6 @@
 | Category            | Subcategory                   | Models and Papers                                                  | Link                                                      |
 |----------------------|-------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------|
-| Our Investigation    | LLM                           | Open sourced LLM                                                   |                                                           |
-|                      |                               | BERT                                                               | [devlin2019bert](https://arxiv.org/abs/1810.04805)        |
+|  LLM               | Open sourced LLM             | BERT                                                               | [devlin2019bert](https://arxiv.org/abs/1810.04805)        |
 |                      |                               | T5                                                                 | [raffel2023exploring](https://arxiv.org/abs/1910.10683)   |
 |                      |                               | LLaMA                                                              | [touvron2023llama](https://arxiv.org/abs/2302.13971)      |
 |                      |   Closed sourced LLM          | GPT3                                                               | [brown2020language](https://arxiv.org/abs/2005.14165)     |
