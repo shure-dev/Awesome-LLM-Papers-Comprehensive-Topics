@@ -43,6 +43,7 @@
 |      |         | Self-Polish              | [xi2023selfpolish](https://arxiv.org/abs/2305.14497)  |
 |      |         | COMPLEXITY-CoT              | [fu2023complexitybased](https://arxiv.org/abs/2210.00720) |
 |      |         | SuperICL                | [xu2023small](https://arxiv.org/abs/2305.08848)    |
+|      | Memory     | MemoryBank                | [zhong2023memorybank](https://arxiv.org/abs/2305.10250)   |
 |      | Automation     | APE                | [zhou2023large](https://arxiv.org/abs/2211.01910)   |
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
