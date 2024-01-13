@@ -48,23 +48,6 @@
 |                      |                               | Lafite-RL                                                          | [chu2023accelerating](https://arxiv.org/abs/2311.02379)   |
 |                      | Survey Paper                  | The Rise and Potential of Large Language Models                    | [xi2023rise](https://arxiv.org/abs/2309.07864)            |
 |                      |                               | Autonomous Agents                                                  | [wang2023survey](https://arxiv.org/abs/2308.11432)        |
-| LLM for Robots       | Multimodal Prompts            | VIMA                                                               | [jiang2023vima](https://arxiv.org/abs/2210.03094)         |
-|                      |                               | Instruct2Act                                                       | [huang2023instruct2act](https://arxiv.org/abs/2305.11176) |
-|                      |                               | MOMA-Force                                                         | [yang2023momaforce](https://arxiv.org/abs/2308.03624)     |
-|                      | Multimodal LLM                | PaLM-E                                                             | [driess2023palme](https://arxiv.org/abs/2303.03378)       |
-|                      |                               | GATO                                                               | [reed2022generalist](https://arxiv.org/abs/2205.06175)    |
-|                      |                               | Flamingo                                                           | [alayrac2022flamingo](https://arxiv.org/abs/2204.14198)   |
-|                      |                               | Physically Grounded Vision-Language Model                          | [gao2023physically](https://arxiv.org/abs/2309.02561)     |
-|                      |                               | MOO                                                                | [stone2023openworld](https://arxiv.org/abs/2303.00905)    |
-|                      | Code Generation              | Code as Policies                                                   | [liang2023code](https://arxiv.org/abs/2209.07753)         |
-|                      |                               | Progprompt                                                        | [singh2022progprompt](https://arxiv.org/abs/2209.11302)   |
-|                      |                               | Socratic                                                           | [zeng2022socratic](https://arxiv.org/abs/2204.00598)      |
-|                      |                               | SMART-LLM                                                          | [kannan2023smartllm](https://arxiv.org/abs/2309.10062)    |
-|                      |                               | Statler                                                            | [yoneda2023statler](https://arxiv.org/abs/2306.17840)     |
-|                      | Decomposing Task             | SayCan                                                             | [ahn2022i](https://arxiv.org/abs/2204.01691)              |
-|                      |                               | Language Models as Zero-Shot Planners                              | [huang2022language](https://arxiv.org/abs/2201.07207)     |
-|                      |                               | SayPlan                                                            | [rana2023sayplan](https://arxiv.org/abs/2307.06135)       |
-|                      |                               | DOREMI                                                             | [guo2023doremi](https://arxiv.org/abs/2307.00329)         |
 |                                | Multimodal prompts             | VIMA                                                      | [jiang2023vima](https://arxiv.org/abs/2210.03094)          |
 |                                |                                | Instruct2Act                                         | [huang2023instruct2act](https://arxiv.org/abs/2305.11176)  |
 |                                |                                | MOMA-Force                                                | [yang2023momaforce](https://arxiv.org/abs/2308.03624)      |
@@ -92,9 +75,7 @@
 |                                |                                | Reflexion                                                 | [shinn2023reflexion](https://arxiv.org/abs/2309.10432)     |
 |                                | Chain of Thought               | EmbodiedGPT                                               | [mu2023embodiedgpt](https://arxiv.org/abs/2308.05123)      |
 |                                | Survey papers                  | Toward General-Purpose                                    | [hu2023generalpurpose](https://arxiv.org/abs/2305.11432)   |
-|                                |                                | Language-conditioned                                      | [zhou202
-
-3languageconditioned](https://arxiv.org/abs/2306.09876)|
-|                                |                                | Foundation Models                                         | [firoozi2023foundation](https://arxiv.org/abs/2310.09987)  |
+|                                |                                | Language-conditioned                               | [zhou2023languageconditioned](https://arxiv.org/abs/2306.09876)|
+|                                |                                | Foundation Models                                  | [firoozi2023foundation](https://arxiv.org/abs/2310.09987)  |
 |                                |                                | Robot Learning                                            | [xiao2023robot](https://arxiv.org/abs/2309.11234)          |
 |                                |                                | The Development of LLMs                                   | [lin2023development](https://arxiv.org/abs/2308.06789)     |
