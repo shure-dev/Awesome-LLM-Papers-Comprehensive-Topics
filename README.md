@@ -47,7 +47,7 @@
 |                      |                               | Lafite-RL                                                          | [chu2023accelerating](https://arxiv.org/abs/2311.02379)   |
 |                      | Survey Paper                  | The Rise and Potential of Large Language Models                    | [xi2023rise](https://arxiv.org/abs/2309.07864)            |
 |                      |                               | Autonomous Agents                                                  | [wang2023survey](https://arxiv.org/abs/2308.11432)        |
-|                                | Multimodal prompts             | VIMA                                                      | [jiang2023vima](https://arxiv.org/abs/2210.03094)          |
+|  LLM for Robots                 | Multimodal prompts             | VIMA                                                      | [jiang2023vima](https://arxiv.org/abs/2210.03094)          |
 |                                |                                | Instruct2Act                                         | [huang2023instruct2act](https://arxiv.org/abs/2305.11176)  |
 |                                |                                | MOMA-Force                                                | [yang2023momaforce](https://arxiv.org/abs/2308.03624)      |
 |                                | Multimodal LLM                 | PaLM-E                                                    | [driess2023palme](https://arxiv.org/abs/2303.03378)        |
