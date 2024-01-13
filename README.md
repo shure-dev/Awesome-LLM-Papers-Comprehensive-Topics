@@ -76,7 +76,7 @@
 |                                |                                | Reflexion                                                 | [shinn2023reflexion](https://arxiv.org/abs/2309.10432)     |
 |                                | Chain of Thought               | EmbodiedGPT                                               | [mu2023embodiedgpt](https://arxiv.org/abs/2308.05123)      |
 |                                | Survey papers                  | Toward General-Purpose                                    | [hu2023generalpurpose](https://arxiv.org/abs/2305.11432)   |
-|                                |                                | Language-conditioned                               | [zhou2023languageconditioned](https://arxiv.org/abs/2306.09876)|
+|                                |                                | Language-conditioned                               | [zhou2023languageconditioned](https://arxiv.org/abs/2312.10807)|
 |                                |                                | Foundation Models                                  | [firoozi2023foundation](https://arxiv.org/abs/2310.09987)  |
 |                                |                                | Robot Learning                                            | [xiao2023robot](https://arxiv.org/abs/2309.11234)          |
 |                                |                                | The Development of LLMs                                   | [lin2023development](https://arxiv.org/abs/2308.06789)     |
