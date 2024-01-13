@@ -5,6 +5,9 @@
 | LLM     | Open sourced LLM    | BERT      | [devlin2019bert](https://arxiv.org/abs/1810.04805)  | 
 |      |         | T5                 | [raffel2023exploring](https://arxiv.org/abs/1910.10683)  |
 |      |         | LLaMA                | [touvron2023llama](https://arxiv.org/abs/2302.13971)  |
+|      |         | OpenFlamingo                | [awadalla2023openflamingo](https://arxiv.org/abs/2308.01390)  |
+|      |         | InstructBLIP                | [dai2023instructblip](https://arxiv.org/abs/2305.06500)  |
+|      |         | ChatBridge                | [zhao2023chatbridge](https://arxiv.org/abs/2305.16103)  |
 |      |  Closed sourced LLM   | GPT3                 | [brown2020language](https://arxiv.org/abs/2005.14165)  |
 |      |         | GPT4                 | [openai2023gpt4](https://arxiv.org/abs/2303.08774)  |
 |      | Instruction Turning   | InstructGPT              | [ouyang2022training](https://arxiv.org/abs/2203.02155)  |
