@@ -1,4 +1,4 @@
-# ![image](https://github.com/shure-dev/Awesome-LLM-VLM-Brain/assets/61527175/943a47e7-291e-4aef-b016-3f5cdda5e743)
+% ![image](https://github.com/shure-dev/Awesome-LLM-VLM-Brain/assets/61527175/943a47e7-291e-4aef-b016-3f5cdda5e743)
 
 
 | Category            | Subcategory                   | Models and Papers                                                  | Link                                                      |
