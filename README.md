@@ -55,10 +55,7 @@
 |                      |                               | - MOMA-Force [\[yang2023momaforce\]](https://arxiv.org/abs/2308.03624)                                   |
 |                      | Multimodal LLM                | - PaLM-E [\[driess2023palme\]](https://arxiv.org/abs/2303.03378)                                         |
 |                      |                               | - GATO [\[reed2022generalist\]](https://arxiv.org/abs/2205.06175)                                        |
-|                      |                               | - Flaming
-
-
-
+|                      |                               | - Flamingo
 | LLM for Robots     | Planning             | - Voyager [\[wang2023voyager\]](https://arxiv.org/abs/2305.16291)          |
 |                    |                      | - DEPS [\[wang2023describe\]](https://arxiv.org/abs/2302.01560)            |
 |                    |                      | - JARVIS-1 [\[wang2023jarvis1\]](https://arxiv.org/abs/2311.05997)         |
