@@ -1,5 +1,5 @@
 | Category | Subcategory | Models | ArXiv Link | Publication Date |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | LLM | Open sourced LLM | BERT | [![arXiv](https://img.shields.io/badge/arXiv-1810.04805-blue.svg)](https://arxiv.org/abs/1810.04805) | 11 Oct 2018 |
 |  |  | T5 | [![arXiv](https://img.shields.io/badge/arXiv-1910.10683-blue.svg)](https://arxiv.org/abs/1910.10683) | 23 Oct 2019 |
 |  |  | LLaMA | [![arXiv](https://img.shields.io/badge/arXiv-2302.13971-blue.svg)](https://arxiv.org/abs/2302.13971) | 27 Feb 2023 |
