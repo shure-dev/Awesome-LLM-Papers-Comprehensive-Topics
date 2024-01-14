@@ -50,6 +50,7 @@
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
 |      |         | JARVIS-1                | [wang2023jarvis1](https://arxiv.org/abs/2311.05997)   |
+|      |         | LLM+P              | [liu2023llmp](https://arxiv.org/abs/2304.11477)   |
 |      | Reinforcement Learning  | Eureka                | [ma2023eureka](https://arxiv.org/abs/2310.12931)   |
 |      |         | Language to Rewards            | [yu2023language](https://arxiv.org/abs/2306.08647)  |
 |      |         | Language Instructed Reinforcement Learning       | [hu2023language](https://arxiv.org/abs/2304.07297)  |
