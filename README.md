@@ -54,6 +54,7 @@
 |      |         | Language to Rewards            | [yu2023language](https://arxiv.org/abs/2306.08647)  |
 |      |         | Language Instructed Reinforcement Learning       | [hu2023language](https://arxiv.org/abs/2304.07297)  |
 |      |         | Lafite-RL               | [chu2023accelerating](https://arxiv.org/abs/2311.02379)  |
+|      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
 |      | Survey Paper     | The Rise and Potential of Large Language Models     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
 |      |         | Autonomous Agents             | [wang2023survey](https://arxiv.org/abs/2308.11432)  |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
