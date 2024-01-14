@@ -59,6 +59,7 @@
 |      |     |  PlanBench       | [valmeekam2023planbench](https://arxiv.org/abs/2206.10498)  |
 |      |     |  Chain-of-Thought Hub       | [fu2023chainofthought](https://arxiv.org/abs/2305.17306)  |
 |      | Survey Paper     | A Survey of Chain of Thought Reasoning   | [chu2023survey](https://arxiv.org/abs/2309.15402)   |
+|      |      | Reasoning in Large Language Models   | [huang2023reasoning](https://arxiv.org/abs/2212.10403)   |
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
 |      |         | JARVIS-1                | [wang2023jarvis1](https://arxiv.org/abs/2311.05997)   |
