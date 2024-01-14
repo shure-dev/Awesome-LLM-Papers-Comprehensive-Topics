@@ -72,7 +72,7 @@
 |      |         | Lafite-RL               | [chu2023accelerating](https://arxiv.org/abs/2311.02379)  |
 |      |         | ELLM                | [du2023guiding](https://arxiv.org/abs/2302.06692)  |
 |      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
-|      | Survey Paper     | The Rise and Potential of Large Language Models     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
+|      | Survey Paper     | Large Language Model Based Agents     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
 |        |        | Instruct2Act           | [huang2023instruct2act](https://arxiv.org/abs/2305.11176) |
 |        |        | MOMA-Force            | [yang2023momaforce](https://arxiv.org/abs/2308.03624)  |
