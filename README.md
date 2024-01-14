@@ -71,6 +71,8 @@
 |      |         | Language Instructed Reinforcement Learning       | [hu2023language](https://arxiv.org/abs/2304.07297)  |
 |      |         | Lafite-RL               | [chu2023accelerating](https://arxiv.org/abs/2311.02379)  |
 |      |         | ELLM                | [du2023guiding](https://arxiv.org/abs/2302.06692)  |
+|      |         | RLAdapter                | [RLAdapter](https://openreview.net/forum?id=3s4fZTr1ce)  |
+|      |         | AdaRefiner                | [zhang2023adarefiner](https://arxiv.org/abs/2309.17176)  |
 |      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
 |      | Survey Paper     | Large Language Model Based Agents     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
