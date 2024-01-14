@@ -28,6 +28,7 @@
 |      |         | MM-ReAct                | [yang2023mmreact](https://arxiv.org/abs/2303.11381)   |
 |      |         | Chameleon               | [lu2023chameleon](https://arxiv.org/abs/2304.09842)   |
 |      | Quantitive Analysis     |  GPT4Vis       | [wu2023gpt4vis](https://arxiv.org/abs/2311.15732)  |
+|      |         | Gemini vs GPT-4V               | [qi2023gemini](https://arxiv.org/abs/2312.15011)   |
 |      | Survey Papers     | A Survey of Large Language Models         | [zhao2023survey](https://arxiv.org/abs/2303.18223)  |
 | In-Context Learning  | Chain of Thought    | Chain of Thought              | [wei2023chainofthought](https://arxiv.org/abs/2201.11903) |
 |      |         | Tree of Thought             | [yao2023tree](https://arxiv.org/abs/2305.10601)    |
