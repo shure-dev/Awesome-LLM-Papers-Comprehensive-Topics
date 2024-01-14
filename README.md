@@ -15,6 +15,7 @@
 |      |         | MiniGPT-4               | [zhu2023minigpt4](https://arxiv.org/abs/2304.10592)   |
 |      |         | FLAN                 | [wei2022finetuned](https://arxiv.org/abs/2109.01652)  |
 |      |         | LLaMA-adapter              | [zhang2023llamaadapter](https://arxiv.org/abs/2303.16199) |
+|      |         | Self-Instruct                 | [wang2023selfinstruct](https://arxiv.org/abs/2212.10560)  |
 |      | Vision-LLM     | LLaVA                | [liu2023visual](https://arxiv.org/abs/2304.08485)   |
 |      |         | GPT4-V OpenFlamingo            | [awadalla2023openflamingo](https://arxiv.org/abs/2308.01390)|
 |      |         | InternGPT               | [liu2023interngpt](https://arxiv.org/abs/2305.05662)  |
