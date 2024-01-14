@@ -64,6 +64,7 @@
 |      |         | JARVIS-1                | [wang2023jarvis1](https://arxiv.org/abs/2311.05997)   |
 |      |         | LLM+P              | [liu2023llmp](https://arxiv.org/abs/2304.11477)   |
 |      |         | Autonomous Agents             | [wang2023survey](https://arxiv.org/abs/2308.11432)  |
+|      |         | AgentInstruct             | [crispino2023agent](https://arxiv.org/abs/2310.03710)  |
 |      | Reinforcement Learning  | Eureka                | [ma2023eureka](https://arxiv.org/abs/2310.12931)   |
 |      |         | Language to Rewards            | [yu2023language](https://arxiv.org/abs/2306.08647)  |
 |      |         | Language Instructed Reinforcement Learning       | [hu2023language](https://arxiv.org/abs/2304.07297)  |
