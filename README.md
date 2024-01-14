@@ -102,6 +102,7 @@
 |        | Multimodal Data injection  | 3D-LLM             | [hong20233dllm](https://arxiv.org/abs/2307.12981)   |
 |        |        | LiDAR-LLM             | [yang2023lidarllm](https://arxiv.org/abs/2312.14074)   |
 |        | Data generation    | Gensim             | [wang2023gensim](https://arxiv.org/abs/2310.01361)   |
+|        |     | RoboGen             | [wang2023robogen](https://arxiv.org/abs/2311.01455)   |
 |        | Planning       | Embodied Task Planning         | [wu2023embodied](https://arxiv.org/abs/2307.01848)   |
 |        | Self-improvement     | REFLECT              | [liu2023reflect](https://arxiv.org/abs/2306.15724)   |
 |        |        | Reflexion             | [shinn2023reflexion](https://arxiv.org/abs/2303.11366)  |
