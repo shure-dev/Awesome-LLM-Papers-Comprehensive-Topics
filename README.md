@@ -73,6 +73,7 @@
 |      |         | ELLM                | [du2023guiding](https://arxiv.org/abs/2302.06692)  |
 |      |         | RLAdapter                | [RLAdapter](https://openreview.net/forum?id=3s4fZTr1ce)  |
 |      |         | AdaRefiner                | [zhang2023adarefiner](https://arxiv.org/abs/2309.17176)  |
+|      |         | Reward Design with Language Models                | [kwon2023reward](https://arxiv.org/abs/2303.00001)  |
 |      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
 |      | Survey Paper     | Large Language Model Based Agents     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
