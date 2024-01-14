@@ -47,6 +47,7 @@
 |      |         | Self-Polish              | [xi2023selfpolish](https://arxiv.org/abs/2305.14497)  |
 |      |         | COMPLEXITY-CoT              | [fu2023complexitybased](https://arxiv.org/abs/2210.00720) |
 |      |         | SuperICL                | [xu2023small](https://arxiv.org/abs/2305.08848)    |
+|      |         | VisualCOMET                | [park2020visualcomet](https://arxiv.org/abs/2004.10796)    |
 |      | Memory     | MemoryBank                | [zhong2023memorybank](https://arxiv.org/abs/2305.10250)   |
 |      |      | ChatEval                | [chan2023chateval](https://arxiv.org/abs/2308.07201)   |
 |      |      | Generative Agents                | [park2023generative](https://arxiv.org/abs/2304.03442)   |
