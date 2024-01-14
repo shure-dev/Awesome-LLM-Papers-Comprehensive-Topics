@@ -51,17 +51,18 @@
 |      | Planning     | SelfCheck                | [miao2023selfcheck](https://arxiv.org/abs/2308.00436)   |
 |      | Automation     | APE                | [zhou2023large](https://arxiv.org/abs/2211.01910)   |
 |      | Self-supervised     | Self-supervised ICL   | [chen2023sinc](https://arxiv.org/abs/2307.07742)   |
+|      | Survey Paper     | A Survey of Chain of Thought Reasoning   | [chu2023survey](https://arxiv.org/abs/2309.15402)   |
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
 |      |         | JARVIS-1                | [wang2023jarvis1](https://arxiv.org/abs/2311.05997)   |
 |      |         | LLM+P              | [liu2023llmp](https://arxiv.org/abs/2304.11477)   |
+|      |         | Autonomous Agents             | [wang2023survey](https://arxiv.org/abs/2308.11432)  |
 |      | Reinforcement Learning  | Eureka                | [ma2023eureka](https://arxiv.org/abs/2310.12931)   |
 |      |         | Language to Rewards            | [yu2023language](https://arxiv.org/abs/2306.08647)  |
 |      |         | Language Instructed Reinforcement Learning       | [hu2023language](https://arxiv.org/abs/2304.07297)  |
 |      |         | Lafite-RL               | [chu2023accelerating](https://arxiv.org/abs/2311.02379)  |
 |      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
 |      | Survey Paper     | The Rise and Potential of Large Language Models     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
-|      |         | Autonomous Agents             | [wang2023survey](https://arxiv.org/abs/2308.11432)  |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
 |        |        | Instruct2Act           | [huang2023instruct2act](https://arxiv.org/abs/2305.11176) |
 |        |        | MOMA-Force            | [yang2023momaforce](https://arxiv.org/abs/2308.03624)  |
