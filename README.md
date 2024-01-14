@@ -28,7 +28,6 @@
 |      |         | MM-ReAct                | [yang2023mmreact](https://arxiv.org/abs/2303.11381)   |
 |      |         | Chameleon               | [lu2023chameleon](https://arxiv.org/abs/2304.09842)   |
 |      | Quantitive Analysis     |  GPT4Vis       | [wu2023gpt4vis](https://arxiv.org/abs/2311.15732)  |
-|      | Benchmark     |  BIG-Bench       | [srivastava2023imitation](https://arxiv.org/abs/2206.04615)  |
 |      | Survey Papers     | A Survey of Large Language Models         | [zhao2023survey](https://arxiv.org/abs/2303.18223)  |
 | In-Context Learning  | Chain of Thought    | Chain of Thought              | [wei2023chainofthought](https://arxiv.org/abs/2201.11903) |
 |      |         | Multimodal-CoT              | [zhang2023multimodal](https://arxiv.org/abs/2302.00923)  |
@@ -54,6 +53,10 @@
 |      | Planning     | SelfCheck                | [miao2023selfcheck](https://arxiv.org/abs/2308.00436)   |
 |      | Automation     | APE                | [zhou2023large](https://arxiv.org/abs/2211.01910)   |
 |      | Self-supervised     | Self-supervised ICL   | [chen2023sinc](https://arxiv.org/abs/2307.07742)   |
+|      | Benchmark     |  BIG-Bench       | [srivastava2023imitation](https://arxiv.org/abs/2206.04615)  |
+|      |     |  ARB       | [sawada2023arb](https://arxiv.org/abs/2307.13692)  |
+|      |     |  PlanBench       | [valmeekam2023planbench](https://arxiv.org/abs/2206.10498)  |
+|      |     |  Chain-of-Thought Hub       | [fu2023chainofthought](https://arxiv.org/abs/2305.17306)  |
 |      | Survey Paper     | A Survey of Chain of Thought Reasoning   | [chu2023survey](https://arxiv.org/abs/2309.15402)   |
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
