@@ -33,6 +33,7 @@
 |      |         | Multimodal-CoT              | [zhang2023multimodal](https://arxiv.org/abs/2302.00923)  |
 |      |         | Auto-CoT                | [zhang2022automatic](https://arxiv.org/abs/2210.03493) |
 |      |         | Verify-and-Edit                | [zhao2023verifyandedit](https://arxiv.org/abs/2305.03268) |
+|      |         | Skeleton-of-Thought                | [ning2023skeletonofthought](https://arxiv.org/abs/2307.15337) |
 |      | Reasoning      | Self-Consistency              | [wang2023selfconsistency](https://arxiv.org/abs/2203.11171)|
 |      |         | Tree of Thought             | [yao2023tree](https://arxiv.org/abs/2305.10601)    |
 |      |         | ReAct                | [yao2023react](https://arxiv.org/abs/2303.11366)   |
