@@ -74,6 +74,7 @@
 |      |         | RLAdapter                | [RLAdapter](https://openreview.net/forum?id=3s4fZTr1ce)  |
 |      |         | AdaRefiner                | [zhang2023adarefiner](https://arxiv.org/abs/2309.17176)  |
 |      |         | Reward Design with Language Models                | [kwon2023reward](https://arxiv.org/abs/2303.00001)  |
+|      |         | EAGER               | [carta2022eager](https://arxiv.org/abs/2206.09674)  |
 |      | Open-Source Evaluation  | AgentSims                | [lin2023agentsims](https://arxiv.org/abs/2308.04026)   |
 |      | Survey Paper     | Large Language Model Based Agents     | [xi2023rise](https://arxiv.org/abs/2309.07864)   |
 | LLM for Robots     | Multimodal prompts    | VIMA              | [jiang2023vima](https://arxiv.org/abs/2210.03094)   |
