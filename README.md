@@ -28,7 +28,7 @@
 |      |         | Chameleon               | [lu2023chameleon](https://arxiv.org/abs/2304.09842)   |
 |      | Survey Papers     | A Survey of Large Language Models         | [zhao2023survey](https://arxiv.org/abs/2303.18223)  |
 |      | Quantitive Analysis     |  GPT4Vis       | [wu2023gpt4vis](https://arxiv.org/abs/2311.15732)  |
-| Incontext Learning  | Chain of Thought    | Chain of Thought              | [wei2023chainofthought](https://arxiv.org/abs/2201.11903) |
+| Prompt Engineering  | Chain of Thought    | Chain of Thought              | [wei2023chainofthought](https://arxiv.org/abs/2201.11903) |
 |      |         | Multimodal-CoT              | [zhang2023multimodal](https://arxiv.org/abs/2302.00923)  |
 |      |         | Auto-CoT                | [zhang2022automatic](https://arxiv.org/abs/2210.03493) |
 |      | Reasoning      | Self-Consistency              | [wang2023selfconsistency](https://arxiv.org/abs/2203.11171)|
@@ -46,6 +46,7 @@
 |      | Memory     | MemoryBank                | [zhong2023memorybank](https://arxiv.org/abs/2305.10250)   |
 |      |      | ChatEval                | [chan2023chateval](https://arxiv.org/abs/2308.07201)   |
 |      |      | Generative Agents                | [park2023generative](https://arxiv.org/abs/2304.03442)   |
+|      | Planning     | SelfCheck                | [miao2023selfcheck](https://arxiv.org/abs/2308.00436)   |
 |      | Automation     | APE                | [zhou2023large](https://arxiv.org/abs/2211.01910)   |
 | LLM for Agent  | Planning      | Voyager               | [wang2023voyager](https://arxiv.org/abs/2305.16291)   |
 |      |         | DEPS                 | [wang2023describe](https://arxiv.org/abs/2302.01560)  |
