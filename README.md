@@ -101,3 +101,7 @@
 |        |        | Foundation Models         | [firoozi2023foundation](https://arxiv.org/abs/2312.07843) |
 |        |        | Robot Learning           | [xiao2023robot](https://arxiv.org/abs/2311.14379)   |
 |        |        | The Development of LLMs          | [lin2023development](https://arxiv.org/abs/2311.00530)  |
+| Perception     | Object Detection    | OWL-ViT              | [minderer2022simple](https://arxiv.org/abs/2205.06230)   |
+|      |     | GLIP              | [li2022grounded](https://arxiv.org/abs/2112.03857)   |
+|      |     | Grounding DINO              | [liu2023grounding](https://arxiv.org/abs/2303.05499)   |
+|      |     | PointCLIP              | [zhang2021pointclip](https://arxiv.org/abs/2112.02413)   |
