@@ -1,4 +1,4 @@
-# LLM
+## LLM
 
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|------------------|
@@ -35,7 +35,7 @@
 |  | Chameleon | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | 19 Apr 2023 |
 |  | Caption Anything | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677) | 4 May 2023 |
 
-# In-Context Learning
+## In-Context Learning
 
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|------------------|
@@ -72,7 +72,7 @@
 |  | Reasoning in Large Language Models | [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403) | 20 Dec 2022 |
 
 
-# LLM for Agent
+## LLM for Agent
 
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|------------------|
@@ -95,7 +95,7 @@
 |  | Text2Reward | [Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning](https://arxiv.org/abs/2309.11489) | 20 Sep 2023 |
 | Survey Paper | Large Language Model Based Agents | [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) | 14 Sep 2023 |
 
-# LLM for Robots
+## LLM for Robots
 
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|------------------|
@@ -133,7 +133,7 @@
 |  | Robot Learning | [Robot Learning in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2311.14379) | 24 Nov 2023 |
 |  | The Development of LLMs | [The Development of LLMs for Embodied Navigation](https://arxiv.org/abs/2311.00530) | 1 Nov 2023 |
 
-# Perception
+## Perception
 
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|------------------|
