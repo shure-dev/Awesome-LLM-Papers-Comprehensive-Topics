@@ -1,3 +1,39 @@
+# LLM
+
+| Subcategory | Models | Linked Title | Publication Date |
+|-------------|--------|--------------|------------------|
+| Closed sourced LLM | GPT3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | 28 May 2020 |
+|  | GPT4 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | 15 Mar 2023 |
+| Instruction Turning | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | 4 Mar 2022 |
+|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
+|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
+|  | MiniGPT-4 | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) | 20 Apr 2023 |
+|  | FLAN | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | 3 Sep 2021 |
+|  | LLaMA-adapter | [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) | 28 Mar 2023 |
+|  | Self-Instruct | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | 20 Dec 2022 |
+| Open sourced LLM | BERT | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 11 Oct 2018 |
+|  | T5 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | 23 Oct 2019 |
+|  | LLaMA | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | 27 Feb 2023 |
+|  | OpenFlamingo | [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) | 2 Aug 2023 |
+|  | InstructBLIP | [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) | 11 May 2023 |
+|  | ChatBridge | [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://arxiv.org/abs/2305.16103) | 25 May 2023 |
+| Quantitive Analysis | GPT4Vis | [GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?](https://arxiv.org/abs/2311.15732) | 27 Nov 2023 |
+|  | Gemini vs GPT-4V | [Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011) | 22 Dec 2023 |
+| Spatial Understanding | Gpt-driver | [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) | 2 Oct 2023 |
+|  | Path planners | [Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning](https://arxiv.org/abs/2310.03249) | 5 Oct 2023 |
+| Survey Papers | A Survey of Large Language Models | [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | 31 Mar 2023 |
+| Temporal Logics | NL2TL | [NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models](https://arxiv.org/abs/2305.07766) | 12 May 2023 |
+| Vision-LLM | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
+|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
+|  | GPT4-V OpenFlamingo | [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) | 2 Aug 2023 |
+|  | InternGPT | [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662) | 9 May 2023 |
+|  | PaLM | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) | 5 Apr 2022 |
+| Visual Question Answering | CogVLM | [CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079) | 6 Nov 2023 |
+|  | ViperGPT | [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) | 14 Mar 2023 |
+|  | VISPROG | [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) | 18 Nov 2022 |
+|  | MM-ReAct | [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) | 20 Mar 2023 |
+|  | Chameleon | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | 19 Apr 2023 |
+|  | Caption Anything | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677) | 4 May 2023 |
 
 # In-Context Learning
 
@@ -35,42 +71,6 @@
 | Survey Paper | A Survey of Chain of Thought Reasoning | [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402) | 27 Sep 2023 |
 |  | Reasoning in Large Language Models | [Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403) | 20 Dec 2022 |
 
-# LLM
-
-| Subcategory | Models | Linked Title | Publication Date |
-|-------------|--------|--------------|------------------|
-| Closed sourced LLM | GPT3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | 28 May 2020 |
-|  | GPT4 | [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) | 15 Mar 2023 |
-| Instruction Turning | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | 4 Mar 2022 |
-|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
-|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
-|  | MiniGPT-4 | [MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models](https://arxiv.org/abs/2304.10592) | 20 Apr 2023 |
-|  | FLAN | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | 3 Sep 2021 |
-|  | LLaMA-adapter | [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) | 28 Mar 2023 |
-|  | Self-Instruct | [Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://arxiv.org/abs/2212.10560) | 20 Dec 2022 |
-| Open sourced LLM | BERT | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 11 Oct 2018 |
-|  | T5 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | 23 Oct 2019 |
-|  | LLaMA | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | 27 Feb 2023 |
-|  | OpenFlamingo | [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) | 2 Aug 2023 |
-|  | InstructBLIP | [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) | 11 May 2023 |
-|  | ChatBridge | [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://arxiv.org/abs/2305.16103) | 25 May 2023 |
-| Quantitive Analysis | GPT4Vis | [GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?](https://arxiv.org/abs/2311.15732) | 27 Nov 2023 |
-|  | Gemini vs GPT-4V | [Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011) | 22 Dec 2023 |
-| Spatial Understanding | Gpt-driver | [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) | 2 Oct 2023 |
-|  | Path planners | [Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning](https://arxiv.org/abs/2310.03249) | 5 Oct 2023 |
-| Survey Papers | A Survey of Large Language Models | [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223) | 31 Mar 2023 |
-| Temporal Logics | NL2TL | [NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models](https://arxiv.org/abs/2305.07766) | 12 May 2023 |
-| Vision-LLM | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
-|  | LLaVA | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 17 Apr 2023 |
-|  | GPT4-V OpenFlamingo | [OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models](https://arxiv.org/abs/2308.01390) | 2 Aug 2023 |
-|  | InternGPT | [InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language](https://arxiv.org/abs/2305.05662) | 9 May 2023 |
-|  | PaLM | [PaLM: Scaling Language Modeling with Pathways](https://arxiv.org/abs/2204.02311) | 5 Apr 2022 |
-| Visual Question Answering | CogVLM | [CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079) | 6 Nov 2023 |
-|  | ViperGPT | [ViperGPT: Visual Inference via Python Execution for Reasoning](https://arxiv.org/abs/2303.08128) | 14 Mar 2023 |
-|  | VISPROG | [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) | 18 Nov 2022 |
-|  | MM-ReAct | [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381) | 20 Mar 2023 |
-|  | Chameleon | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | 19 Apr 2023 |
-|  | Caption Anything | [Caption Anything: Interactive Image Description with Diverse Multimodal Controls](https://arxiv.org/abs/2305.02677) | 4 May 2023 |
 
 # LLM for Agent
 
