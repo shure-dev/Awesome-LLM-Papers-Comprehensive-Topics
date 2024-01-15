@@ -142,3 +142,40 @@
 |  | Grounding DINO | [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499) | 9 Mar 2023 |
 |  | PointCLIP | [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413) | 4 Dec 2021 |
 |  | Segment Anything | [Segment Anything](https://arxiv.org/abs/2304.02643) | 5 Apr 2023 |
+
+
+
+## Awesome repos
+
+[Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+
+[Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+
+[Awesome-Multimodal-Reasoning](https://github.com/atfortes/Awesome-Multimodal-Reasoning)
+
+[LLM-Reasoning-Papers](https://github.com/atfortes/LLM-Reasoning-Papers)
+
+[LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)
+
+[Awesome_Multimodel_LLM](https://github.com/Atomic-man007/Awesome_Multimodel_LLM)
+
+## Awesome surveys
+
+[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+[A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402)
+
+[Towards Reasoning in Large Language Models: A Survey](https://arxiv.org/abs/2212.10403)
+
+[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
+
+[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+
+[Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)
+
+
+[Language-conditioned Learning for Robotic Manipulation: A Survey](https://arxiv.org/abs/2312.10807)
+
+[Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)
+
+[The Development of LLMs for Embodied Navigation](https://arxiv.org/abs/2311.00530)
