@@ -1,7 +1,7 @@
-## Awesome papers for "How LLM is used for robotics brain"
-#### LLM for Robot -> Code generator, Task decomposer ⭕️
+## Awesome papers of "LLM for Robotics Intelligence"
+#### LLM for Robotics -> Code generator, Task decomposer ⭕️
 #### LLM for Brain -> Reasoner, Planner ⭕️
-#### LLM for Robotics Brain -> ❓
+#### LLM for Robotics Intelligence -> ❓
 
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
