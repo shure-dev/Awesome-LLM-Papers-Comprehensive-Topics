@@ -1,3 +1,11 @@
+#### LLM for Robot -> ⭕️
+#### LLM for Agent -> ⭕️
+#### LLM for Robotics Agent -> ❓
+LLM is generally used for robot as a code generator.<br>
+LLM is generally used for agent as a reasoner.<br>
+How LLM is used for robotics agent toward AGI?<br>
+
+
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)<br>
