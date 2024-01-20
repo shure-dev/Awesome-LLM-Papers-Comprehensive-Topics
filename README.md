@@ -1,7 +1,7 @@
-## Awesome papers about "LLM for Robotics Intelligence"
+## Awesome papers about "LLM for Robotics Reasoning"
 #### LLM for Robotics -> Code generator, Task decomposer ⭕️
-#### LLM for Intelligence -> Reasoner, Planner ⭕️
-#### LLM for Robotics Intelligence -> ❓
+#### LLM for Reasoning ⭕️
+#### LLM for Robotics Reasoning -> ❓
 
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
