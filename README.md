@@ -2,11 +2,8 @@
 
 <img width="1231" alt="image" src="https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning/assets/61527175/5bae07e4-195e-4a5a-982d-27c4bcce78d4">
 
-
-## Awesome papers about "LLM for Robotics Reasoning"
-#### LLM for Robotics -> Code generator, Task decomposer ⭕️
-#### LLM for Reasoning ⭕️
-#### LLM for Robotics Reasoning -> ❓
+## Target fields
+Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL, Multimodal LLM(LiDAR), Instruction turning, VQA, Data generation, Driving, Feedback, VLM, PEFT, RLHF
 
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
