@@ -1,4 +1,4 @@
-# 🔥We are working on [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4) Last updated Feb 1st
+# 🔥We are working on [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4), Last updated Feb 1st
 
 <img width="1231" alt="image" src="https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning/assets/61527175/5bae07e4-195e-4a5a-982d-27c4bcce78d4">
 
