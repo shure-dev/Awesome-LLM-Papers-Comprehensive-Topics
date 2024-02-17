@@ -1,4 +1,4 @@
-# 🔥We are working on [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4), Last updated 11th Feb 2024
+# 🔥We are working on [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4), Last updated on 17th Feb 2024
 
 <img width="1231" alt="image" src="https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning/assets/61527175/5bae07e4-195e-4a5a-982d-27c4bcce78d4">
 
@@ -23,7 +23,7 @@ Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL
 [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)<br>
 [The Development of LLMs for Embodied Navigation](https://arxiv.org/abs/2311.00530)<br>
 [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/?ref=emergentmind)<br>
-
+[Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs)
 ## LLM
 | Subcategory | Models | Linked Title | Publication Date |
 |-------------|--------|--------------|-----------------|
