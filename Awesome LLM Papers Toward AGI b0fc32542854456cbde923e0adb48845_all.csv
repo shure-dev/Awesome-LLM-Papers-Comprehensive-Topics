@@ -1,0 +1,246 @@
+﻿Impact,Model,Title,Category,ArXiv Link,GitHub,Citation,Publication Date,Foundation,Property,ID
+,,The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits,"LLM, Quantization",https://arxiv.org/abs/2402.17764,,,,,,219
+,,SliceGPT: Compress Large Language Models by Deleting Rows and Columns,"Quantization, Scaling",,,,,,,240
+,,"Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs","Diffusion, Text-to-Image",,,,,,,239
+,,Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data,"Anything, Depth",,,,,,,238
+,,Learning to Learn Faster from Human Feedback with Language Model Predictive Control,"Feedback, Robot",,,,,,,231
+,,LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens,"Context-Window, LLM",https://arxiv.org/abs/2402.13753,,,,,,228
+,,"Sparks of Artificial General Intelligence:
+Early experiments with GPT-4","Benchmark, GPT4",,,,,,,167
+,BC-Z,BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning,"Robot, Zero-shot",https://arxiv.org/abs/2202.02005,,,,,,214
+,,Grounding Large Language Models in Interactive Environments with Online Reinforcement Learning,"Grounding, Reinforcement-Learning",,,,,,,187
+,Code LLaMA,Code Llama: Open Foundation Models for Code,"Foundation, LLM, Open-source",,,,,,,131
+,,Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning,World-model,,,,,,,172
+,,World Model on Million-Length Video And Language With RingAttention,"Text-to-Image, World-model",,,,,,,206
+,,Embodied Question Answering,Enbodied,https://arxiv.org/abs/1711.11543,,,,,,177
+,,Awesome-Multimodal-LLM,"Awesome Repo, Multimodal",,https://github.com/Atomic-man007/Awesome_Multimodel_LLM,,,,,184
+,,LLMSurvey,"Awesome Repo, Survey",,https://github.com/RUCAIBox/LLMSurvey,,,,,183
+,,Awesome LLM Reasoning,"Awesome Repo, Reasoning",,https://github.com/atfortes/Awesome-LLM-Reasoning,,,,,182
+,,Awesome-LLM-Robotics,"Awesome Repo, Robot",,https://github.com/GT-RIPL/Awesome-LLM-Robotics,,,,,181
+90,,Awesome-Embodied-Agent-with-LLMs,"Agent, Awesome Repo, LLM",,https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs,,,,,180
+,,Awesome-Multimodal-Large-Language-Models,"Awesome Repo, Multimodal",,https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models,,,,,179
+,,Awesome-LLM-Papers-Toward-AGI,"AGI, Awesome Repo, Survey",,https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI,,,,,218
+,,Awesome AI Agents,"Agent, Awesome Repo",,https://github.com/e2b-dev/awesome-ai-agents,,,,,213
+,,CoALA: Awesome Language Agents,"Agent, Awesome Repo, LLM",,https://github.com/ysymyth/awesome-language-agents,,,,,212
+,,LLM-in-Vision,"Awesome Repo, LLM, Vision",,https://github.com/DirtyHarryLYL/LLM-in-Vision,,,,,211
+,,Awesome RLHF (RL with Human Feedback),"Awesome Repo, RLHF, Reinforcement-Learning",,https://github.com/opendilab/awesome-RLHF,,,,,210
+,,Chain-of-ThoughtsPapers,"Awesome Repo, Chain-of-Thought",,https://github.com/Timothyxxx/Chain-of-ThoughtsPapers,,,,,209
+,,LLM-Leaderboard,"Awesome Repo, LLM, Leaderboard",,https://github.com/LudwigStumpp/llm-leaderboard,,,,,208
+,,日本語LLMまとめ,"Awesome Repo, Japanese, LLM",,https://github.com/llm-jp/awesome-japanese-llm,,,,,207
+,,Awesome-LLM,"Awesome Repo, LLM",,https://github.com/Hannibal046/Awesome-LLM,,,,,189
+,,Awesome-Reasoning-Foundation-Models,"Awesome Repo, Reasoning",,https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models,,,,,188
+,,Everything-LLMs-And-Robotics,"Awesome Repo, LLM, Robot",,https://github.com/jrin771/Everything-LLMs-And-Robotics,,,,,186
+,,Semantic HELM: A Human-Readable Memory for Reinforcement Learning,"Memory, Reinforcement-Learning",,,,,,,154
+,,Large Language Models Are Semi-Parametric Reinforcement Learning Agents,Reinforcement-Learning,,,,,,,156
+,RLang,RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents,Reinforcement-Learning,,,,,,,155
+,,When Brain-inspired AI Meets AGI,"AGI, Brain",,,,,,,168
+,,Instruction-tuning Aligns LLMs to the Human Brain,"Brain, Instruction-Turning",,,,,,,157
+70,,Divergences between Language Models and Human Brains,"AGI, Brain",,,,,,,159
+,,LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model,Brain,,,,,,,158
+50,Gpt-driver,GPT-Driver: Learning to Drive with GPT,"Driving, Spacial",https://arxiv.org/abs/2310.01415,,,2023/10/02,,Spatial Understanding,49
+,,GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation,"3D, GPT4, VLM",https://arxiv.org/abs/2401.04092,,,,,,122
+,LLaVA,Visual Instruction Tuning,"Instruction-Turning, Open-source, Spacial, VLM",https://arxiv.org/abs/2304.08485,,,2023/04/17,,Vision-LLM,75
+,GPT4-V OpenFlamingo,OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models,"Open-source, VLM",https://arxiv.org/abs/2308.01390,,,2023/08/02,,Vision-LLM,33
+,InternGPT,InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language,"Intaractive, VLM",https://arxiv.org/abs/2305.05662,,,2023/05/09,,Vision-LLM,9
+,PaLM,PaLM: Scaling Language Modeling with Pathways,VLM,https://arxiv.org/abs/2204.02311,,,2022/04/05,,Vision-LLM,46
+,CogVLM,CogVLM: Visual Expert for Pretrained Language Models,"VLM, VQA",https://arxiv.org/abs/2311.03079,,,2023/11/06,,Visual Question Answering,55
+,ViperGPT,ViperGPT: Visual Inference via Python Execution for Reasoning,"Code-as-Policies, Reasoning, VLM, VQA",https://arxiv.org/abs/2303.08128,,,2023/03/14,,Visual Question Answering,4
+,VISPROG,Visual Programming: Compositional visual reasoning without training,"Code-as-Policies, VLM, VQA",https://arxiv.org/abs/2211.11559,,,2022/11/18,,Visual Question Answering,99
+,MM-ReAct,MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action,"Reasoning, VLM, VQA",https://arxiv.org/abs/2303.11381,,,2023/03/20,,Visual Question Answering,24
+,Chameleon,Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models,"VLM, VQA",https://arxiv.org/abs/2304.09842,,,2023/04/19,,Visual Question Answering,29
+,Caption Anything,Caption Anything: Interactive Image Description with Diverse Multimodal Controls,"Caption, VLM, VQA",https://arxiv.org/abs/2305.02677,,,2023/05/04,,Visual Question Answering,7
+,,Learning to Compress Prompts with Gist Tokens,"Compress, Prompting",https://arxiv.org/abs/2304.08467,,,,,,125
+,APE,Large Language Models Are Human-Level Prompt Engineers,"Automate, Prompting",https://arxiv.org/abs/2211.01910,,,2022/11/03,,Automation,114
+,,Contrastive Chain-of-Thought Prompting,Prompting,,,,,,,198
+,,Chain-of-Thought Reasoning Without Prompting,"Chain-of-Thought, Prompting",,,,,,,194
+,NavGPT,NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models,Reasoning,,,,,,,171
+,Selection-Inference,Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning,Reasoning,https://arxiv.org/abs/2205.09712,,,,,,140
+,ReConcile,ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs.,Reasoning,,,,,,,132
+,,Towards Understanding Chain-of-Thought Prompting: An Empirical Study of What Matters,"Chain-of-Thought, Reasoning, Survey",https://arxiv.org/abs/2212.10001,,,2023/12/20,,,120
+,,Large Language Models are few(1)-shot Table Reasoners,"Reasoning, Table",https://arxiv.org/abs/2210.06710,,,,,,123
+,,Reasoning with Language Model Prompting: A Survey,"Reasoning, Survey",https://arxiv.org/abs/2212.09597,,,,,,124
+,Chain of Thought,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2201.11903,,,2022/01/28,,Chain of Thought,15
+,Tree of Thought,Tree of Thoughts: Deliberate Problem Solving with Large Language Models,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2305.10601,,,2023/05/17,,Chain of Thought,61
+,Multimodal-CoT,Multimodal Chain-of-Thought Reasoning in Language Models,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2302.00923,,,2023/02/02,,Chain of Thought,116
+,Auto-CoT,Automatic Chain of Thought Prompting in Large Language Models,"Automate, Chain-of-Thought, Reasoning",https://arxiv.org/abs/2210.03493,,,2022/10/07,,Chain of Thought,53
+,Verify-and-Edit,Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2305.03268,,,2023/05/05,,Chain of Thought,26
+,Skeleton-of-Thought,Skeleton-of-Thought: Large Language Models Can Do Parallel Decoding,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2307.15337,,,2023/07/28,,Chain of Thought,112
+,Rethinking with Retrieval,Rethinking with Retrieval: Faithful Large Language Model Inference,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2301.00303,,,2022/12/31,,Chain of Thought,110
+,Self-Consistency,Self-Consistency Improves Chain of Thought Reasoning in Language Models,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2203.11171,,,2022/03/21,,Reasoning,113
+,SelfCheck,SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning,"Chain-of-Thought, Planning, Reasoning",https://arxiv.org/abs/2308.00436,,,2023/08/01,,Planning,2
+,Chain-of-Thought Hub,Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance,"Chain-of-Thought, Reasoning",https://arxiv.org/abs/2305.17306,,,2023/05/26,,Benchmark,98
+,A Survey of Chain of Thought Reasoning,"A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future","Chain-of-Thought, Reasoning, Survey",https://arxiv.org/abs/2309.15402,,,2023/09/27,,Survey Paper,1
+90,NLaP,Natural Language as Polices: Human-Like Reasoning for Coordinate-Level Embodied Control,"Agent, Embodied, Natural-Language-as-Polices, Reasoning, Robot, Zero-shot",,,,,,,217
+,,Self-Discover: Large Language Models Self-Compose Reasoning Structures,Reasoning,,,,,,,196
+,,A Survey on LLM-based Autonomous Agents,"Agent, Survey",,https://github.com/Paitesanshi/LLM-Agent-Survey,,,,,200
+,,Levels of AGI: Operationalizing Progress on the Path to AGI,"AGI, Survey",,,,,,,199
+,,A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications,"Prompting, Survey",,,,,,,193
+,DetGPT,DetGPT: Detect What You Need via Reasoning,"Perception, Reasoning",https://arxiv.org/abs/2305.14167,,,,,,176
+,OWL-ViT,Simple Open-Vocabulary Object Detection with Vision Transformers,Perception,https://arxiv.org/abs/2205.06230,,,2022/05/12,,Object Detection,17
+,GLIP,Grounded Language-Image Pre-training,Perception,https://arxiv.org/abs/2112.03857,,,2021/12/07,,Object Detection,106
+,Grounding DINO,Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,Perception,https://arxiv.org/abs/2303.05499,,,2023/03/09,,Object Detection,84
+,PointCLIP,PointCLIP: Point Cloud Understanding by CLIP,Perception,https://arxiv.org/abs/2112.02413,,,2021/12/04,,Object Detection,72
+,Segment Anything,Segment Anything,"LLM, Open-source, Perception, Segmentation",https://arxiv.org/abs/2304.02643,,,2023/04/05,,Object Detection,22
+,DOREMI,DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment,"Perception, Task-Decompose",https://arxiv.org/abs/2307.00329,,,2023/07/01,,Decomposing task,14
+,3D-LLM,3D-LLM: Injecting the 3D World into Large Language Models,"3D, Open-source, Perception, Robot",https://arxiv.org/abs/2307.12981,,,2023/07/24,,Multimodal Data injection,65
+,,Segment Anything,"Perception, Segmentation",https://arxiv.org/abs/2304.02643,,,,,,216
+,,"Reasoning Grasping via Multimodal Large
+Language Model","Perception, Reasoning, Robot",https://arxiv.org/abs/2402.06798,,,,,,215
+,,DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,Perception,,,,,,,205
+,,Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,"Open-source, Perception",,,,,,,204
+,,SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding,Perception,,,,,,,201
+,,OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics,Robot,,,,,,,190
+,RoCo,RoCo: Dialectic Multi-Robot Collaboration with Large Language Models,Robot,https://arxiv.org/abs/2307.04738,,25,,,,162
+,,Look Before You Leap: Unveiling the Power ofGPT-4V in Robotic Vision-Language Planning,"Chain-of-Thought, GPT4, Reasoning, Robot",https://robot-vila.github.io/ViLa.pdf,,,2023/11/29,GPT4V,,128
+,,Interactive Language: Talking to Robots in Real Time,Robot,,,,,,,130
+,,Large Language Models as Generalizable Policies for Embodied Tasks,"Embodied, Robot",,,,,,,129
+,,AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents,"Agent, Embodied, Robot",https://arxiv.org/abs/2401.12963,,,,,,127
+,,Inner Monologue: Embodied Reasoning through Planning with Language Models,"Embodied, Reasoning, Robot, Task-Decompose",https://arxiv.org/abs/2207.05608,,,,,,119
+,,Text2Motion: From Natural Language Instructions to Feasible Plans,Robot,https://arxiv.org/abs/2303.12153,,,,,,118
+,VIMA,VIMA: General Robot Manipulation with Multimodal Prompts,"End2End, Multimodal, Robot",https://arxiv.org/abs/2210.03094,,,2022/10/06,,Multimodal prompts,59
+,Instruct2Act,Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model,"Code-as-Policies, Multimodal, Robot",https://arxiv.org/abs/2305.11176,,,2023/05/18,,Multimodal prompts,105
+,MOMA-Force,MOMA-Force: Visual-Force Imitation for Real-World Mobile Manipulation,"Multimodal, Robot",https://arxiv.org/abs/2308.03624,,,2023/08/07,,Multimodal prompts,5
+,PaLM-E,PaLM-E: An Embodied Multimodal Language Model,"End2End, Multimodal, Robot",https://arxiv.org/abs/2303.03378,,,2023/03/06,,Multimodal LLM,54
+,GATO,A Generalist Agent,"Agent, Multimodal, Robot",https://arxiv.org/abs/2205.06175,,,2022/05/12,,Multimodal LLM,81
+,Flamingo,Flamingo: a Visual Language Model for Few-Shot Learning,"Multimodal, Robot",https://arxiv.org/abs/2204.14198,,,2022/04/29,,Multimodal LLM,67
+,Physically Grounded Vision-Language Model,Physically Grounded Vision-Language Models for Robotic Manipulation,"End2End, Multimodal, Robot",https://arxiv.org/abs/2309.02561,,,2023/09/05,,Multimodal LLM,32
+,MOO,Open-World Object Manipulation using Pre-trained Vision-Language Models,"Multimodal, Robot",https://arxiv.org/abs/2303.00905,,,2023/03/02,,Multimodal LLM,41
+,Code as policies,Code as Policies: Language Model Programs for Embodied Control,"Code-as-Policies, Embodied, Robot",https://arxiv.org/abs/2209.07753,,,2022/09/16,,Code generation,10
+,Progprompt,ProgPrompt: Generating Situated Robot Task Plans using Large Language Models,"Code-as-Policies, Robot",https://arxiv.org/abs/2209.11302,,,2022/09/22,,Code generation,95
+,Socratic,Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language,"Code-as-Policies, Robot, Zero-shot",https://arxiv.org/abs/2204.00598,,,2022/04/01,,Code generation,90
+,SMART-LLM,SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models,"Code-as-Policies, Robot",https://arxiv.org/abs/2309.10062,,,2023/09/18,,Code generation,56
+,Statler,Statler: State-Maintaining Language Models for Embodied Reasoning,"Code-as-Policies, Robot, State-Manage",https://arxiv.org/abs/2306.17840,,,2023/06/30,,Code generation,100
+,SayCan,"Do As I Can, Not As I Say: Grounding Language in Robotic Affordances","LLM, Robot, Task-Decompose",https://arxiv.org/abs/2204.01691,,,2022/04/04,,Decomposing task,117
+,Language Models as Zero-Shot Planners,Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents,"Robot, Task-Decompose, Zero-shot",https://arxiv.org/abs/2201.07207,,,2022/01/18,,Decomposing task,83
+,SayPlan,SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning,"Robot, Task-Decompose",https://arxiv.org/abs/2307.06135,,,2023/07/12,,Decomposing task,87
+,SayTap,SayTap: Language to Quadrupedal Locomotion,"Low-level-action, Robot",https://arxiv.org/abs/2306.07580,,,2023/06/13,,Low-level output,96
+,Prompt a Robot to Walk,Prompt a Robot to Walk with Large Language Models,"Low-level-action, Robot",https://arxiv.org/abs/2309.09969,,,2023/09/18,,Low-level output,31
+,LiDAR-LLM,LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding,"Perception, Robot",https://arxiv.org/abs/2312.14074,,,2023/12/21,,Multimodal Data injection,115
+,Gensim,GenSim: Generating Robotic Simulation Tasks via Large Language Models,"Data-generation, Robot",https://arxiv.org/abs/2310.01361,,,2023/10/02,,Data generation,71
+,RoboGen,RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation,"Data-generation, Robot",https://arxiv.org/abs/2311.01455,,,2023/11/02,,Data generation,79
+,Embodied Task Planning,Embodied Task Planning with Large Language Models,"Embodied, Robot, Task-Decompose",https://arxiv.org/abs/2307.01848,,,2023/07/04,,Planning,19
+,REFLECT,REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction,Robot,https://arxiv.org/abs/2306.15724,,,2023/06/27,,Self-improvement,12
+,Reflexion,Reflexion: Language Agents with Verbal Reinforcement Learning,Robot,https://arxiv.org/abs/2303.11366,,,2023/03/20,,Self-improvement,74
+,EmbodiedGPT,EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought,"Chain-of-Thought, Embodied, Robot, Task-Decompose",https://arxiv.org/abs/2305.15021,,,2023/05/24,,Chain of Thought,111
+,Robotic Brain,LLM as A Robotic Brain: Unifying Egocentric Memory and Control,"Memory, Robot",https://arxiv.org/abs/2304.09349,,,2023/04/19,,Brain,107
+,Toward General-Purpose,Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis,"Robot, Survey",https://arxiv.org/abs/2312.08782,,,2023/12/14,,Survey papers,38
+,Language-conditioned,Language-conditioned Learning for Robotic Manipulation: A Survey,"Robot, Survey",https://arxiv.org/abs/2312.10807,,,2023/12/17,,Survey papers,94
+,Foundation Models,"Foundation Models in Robotics: Applications, Challenges, and the Future","Foundation, Robot, Survey",https://arxiv.org/abs/2312.07843,,,2023/12/13,,Survey papers,80
+,Robot Learning,Robot Learning in the Era of Foundation Models: A Survey,"Robot, Survey",https://arxiv.org/abs/2311.14379,,,2023/11/24,,Survey papers,3
+,The Development of LLMs,The Development of LLMs for Embodied Navigation,"Embodied, LLM, Robot, Survey",https://arxiv.org/abs/2311.00530,,,2023/11/01,,Survey papers,11
+,,War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars,Agent,https://arxiv.org/abs/2311.17227,,,,,,185
+,AppAgent,AppAgent: Multimodal Agents as Smartphone Users,"Agent, GUI, MobileApp",,,,,,,178
+,MindAgent,MindAgent: Emergent Gaming Interaction,Agent,,,,,,,175
+,,LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models,"Agent, Embodied",,,,,,,174
+,,STARLING: SELF-SUPERVISED TRAINING OF TEXTBASED REINFORCEMENT LEARNING AGENT WITH LARGE LANGUAGE MODELS,"Agent, Reinforcement-Learning",,,,,,,173
+,InfiAgent,InfiAgent: A Multi-Tool Agent for AI Operating Systems,Agent,,,,,,,170
+,,Predictive Minds: LLMs As Atypical Active Inference Agents,Agent,,,,,,,169
+,,An Interactive Agent Foundation Model,"Agent, End2End, Game, Robot",https://arxiv.org/abs/2402.05929,,,,,,165
+,XAgent,XAgent: An Autonomous Agent for Complex Task Solving,Agent,,,,,,,164
+,CogAgent,CogAgent: A Visual Language Model for GUI Agents,"Agent, GUI",,,,,,,161
+,,LLM-Powered Hierarchical Language Agent for Real-time Human-AI Coordination,Agent,,,,,,,160
+,AgentVerse,AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors,Agent,https://arxiv.org/abs/2308.10848,,,,,,152
+,Agents,Agents: An Open-source Framework for Autonomous Language Agents,Agent,https://arxiv.org/abs/2309.07870,https://github.com/aiwaves-cn/agents,,,,,151
+,OpenAgents,OpenAgents: An Open Platform for Language Agents in the Wild,Agent,,https://github.com/xlang-ai/OpenAgents,,,,,150
+,AutoAgents,AutoAgents: A Framework for Automatic Agent Generation,Agent,,https://github.com/Link-AGI/AutoAgents,,,,,149
+,DSPy,DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines,Agent,https://arxiv.org/abs/2310.03714,,,,,,148
+,AutoGen,AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation,Agent,,,,,,,147
+,CAMEL,CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society,Agent,,,,,,,146
+,babyagi,,Agent,,https://github.com/yoheinakajima/babyagi,,,,,145
+,XAgent,XAgent: An Autonomous Agent for Complex Task Solving,Agent,https://blog.x-agent.net/blog/xagent/,,,,,,144
+,ChatDev,Communicative Agents for Software Development,"Agent, Soft-Dev",,https://github.com/OpenBMB/ChatDev,,,,,143
+,MetaGPT,MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework,"Agent, Soft-Dev",,,,,,,142
+,,Generative Agents: Interactive Simulacra of Human Behavior,Agent,https://arxiv.org/abs/2304.03442,,,,,,126
+,Voyager,Voyager: An Open-Ended Embodied Agent with Large Language Models,"Agent, Minecraft",https://arxiv.org/abs/2305.16291,,,2023/05/25,,Planning,62
+,DEPS,"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents","Agent, Minecraft",https://arxiv.org/abs/2302.01560,,,2023/02/03,,Planning,47
+,JARVIS-1,JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models,"Agent, Memory, Minecraft",https://arxiv.org/abs/2311.05997,,,2023/11/10,,Planning,27
+,LLM+P,LLM+P: Empowering Large Language Models with Optimal Planning Proficiency,Agent,https://arxiv.org/abs/2304.11477,,,2023/04/22,,Planning,85
+,Autonomous Agents,A Survey on Large Language Model based Autonomous Agents,"Agent, Survey",https://arxiv.org/abs/2308.11432,,,2023/08/22,,Planning,13
+,AgentInstruct,Agent Instructs Large Language Models to be General Zero-Shot Reasoners,"Agent, Reasoning, Zero-shot",https://arxiv.org/abs/2310.03710,,,2023/10/05,,Planning,40
+,Eureka,Eureka: Human-Level Reward Design via Coding Large Language Models,"Agent, Reinforcement-Learning",https://arxiv.org/abs/2310.12931,,,2023/10/19,,Reinforcement Learning,63
+,Language to Rewards,Language to Rewards for Robotic Skill Synthesis,"Agent, Reinforcement-Learning",https://arxiv.org/abs/2306.08647,,,2023/06/14,,Reinforcement Learning,6
+,Language Instructed Reinforcement Learning,Language Instructed Reinforcement Learning for Human-AI Coordination,"Agent, Reinforcement-Learning",https://arxiv.org/abs/2304.07297,,,2023/04/13,,Reinforcement Learning,104
+,Lafite-RL,Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models,"Agent, Feedback, Reinforcement-Learning, Robot",https://arxiv.org/abs/2311.02379,,,2023/11/04,,Reinforcement Learning,20
+,ELLM,Guiding Pretraining in Reinforcement Learning with Large Language Models,"Agent, Reinforcement-Learning",https://arxiv.org/abs/2302.06692,,,2023/02/13,,Reinforcement Learning,8
+,RLAdapter,RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds,"Agent, Minecraft, Reinforcement-Learning",,,,,,Reinforcement Learning,23
+,AdaRefiner,AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback,"Agent, Feedback, Reinforcement-Learning",https://arxiv.org/abs/2309.17176,,,2023/09/29,,Reinforcement Learning,39
+,Reward Design with Language Models,Reward Design with Language Models,"Agent, Reinforcement-Learning, Reward",https://arxiv.org/abs/2303.00001,,,2023/02/27,,Reinforcement Learning,76
+,EAGER,EAGER: Asking and Answering Questions for Automatic Reward Shaping in Language-guided RL,"Agent, Reinforcement-Learning, Reward",https://arxiv.org/abs/2206.09674,,,2022/06/20,,Reinforcement Learning,78
+,Text2Reward,Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning,"Agent, Reinforcement-Learning, Reward",https://arxiv.org/abs/2309.11489,,,2023/09/20,,Reinforcement Learning,66
+,AgentSims,AgentSims: An Open-Source Sandbox for Large Language Model Evaluation,Agent,https://arxiv.org/abs/2308.04026,,,2023/08/08,,Open-Source Evaluation,16
+90,Large Language Model Based Agents,The Rise and Potential of Large Language Model Based Agents: A Survey,"Agent, Survey",https://arxiv.org/abs/2309.07864,,,2023/09/14,,Survey Paper,30
+,,"GPT-4V(ision) is a Generalist Web Agent, if Grounded","Agent, GPT4",,,,,,,203
+,,Agents: An Open-source Framework for Autonomous Language Agents,Agent,,,,,,,202
+,LARP,LARP: Language-Agent Role Play for Open-World Games,"Agent, Minecraft",,,,,,,197
+,,WebLINX: Real-World Website Navigation with Multi-Turn Dialogue,"Agent, Web",,,,,,,195
+,,WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models,"Agent, Web",,,,,,,192
+,Mobile-Agent,Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception,"Agent, GUI, MobileApp",,,,,,,191
+,,AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents,"In-Context-Learning, Reinforcement-Learning",,,,,,,153
+,,Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2401.04398,,,,,,121
+,ReAct,ReAct: Synergizing Reasoning and Acting in Language Models,In-Context-Learning,https://arxiv.org/abs/2303.11366,,,2023/03/20,,Reasoning,97
+,Self-Refine,Self-Refine: Iterative Refinement with Self-Feedback,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2303.17651,,,2023/03/30,,Reasoning,51
+,Plan-and-Solve,Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2305.04091,,,2023/05/06,,Reasoning,64
+,PAL,PAL: Program-aided Language Models,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2211.10435,,,2022/11/18,,Reasoning,52
+,Reasoning via Planning,Reasoning with Language Model is Planning with World Model,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2305.14992,,,2023/05/24,,Reasoning,86
+,Self-Ask,Measuring and Narrowing the Compositionality Gap in Language Models,"Chain-of-Thought, In-Context-Learning, Self",https://arxiv.org/abs/2210.03350,,,2022/10/07,,Reasoning,36
+,Least-to-Most Prompting,Least-to-Most Prompting Enables Complex Reasoning in Large Language Models,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2205.10625,,,2022/05/21,,Reasoning,25
+,Self-Polish,Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement,"Chain-of-Thought, In-Context-Learning, Self",https://arxiv.org/abs/2305.14497,,,2023/05/23,,Reasoning,70
+,COMPLEXITY-CoT,Complexity-Based Prompting for Multi-Step Reasoning,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2210.00720,,,2022/10/03,,Reasoning,35
+,Maieutic Prompting,Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2205.11822,,,2022/05/24,,Reasoning,60
+,Algorithm of Thoughts,Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models,"Chain-of-Thought, In-Context-Learning",https://arxiv.org/abs/2308.10379,,,2023/08/20,,Reasoning,34
+,SuperICL,Small Models are Valuable Plug-ins for Large Language Models,In-Context-Learning,https://arxiv.org/abs/2305.08848,,,2023/05/15,,Reasoning,42
+,VisualCOMET,VisualCOMET: Reasoning about the Dynamic Context of a Still Image,"In-Context-Learning, VQA",https://arxiv.org/abs/2004.10796,,,2020/04/22,,Reasoning,69
+,ChatEval,ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,In-Context-Learning,https://arxiv.org/abs/2308.07201,,,2023/08/14,,Memory,102
+,Generative Agents,Generative Agents: Interactive Simulacra of Human Behavior,In-Context-Learning,https://arxiv.org/abs/2304.03442,,,2023/04/07,,Memory,68
+,Self-supervised ICL,SINC: Self-Supervised In-Context Learning for Vision-Language Tasks,In-Context-Learning,https://arxiv.org/abs/2307.07742,,,2023/07/15,,Self-supervised,37
+,BIG-Bench,Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models,In-Context-Learning,https://arxiv.org/abs/2206.04615,,,2022/06/09,,Benchmark,28
+,ARB,ARB: Advanced Reasoning Benchmark for Large Language Models,In-Context-Learning,https://arxiv.org/abs/2307.13692,,,2023/07/25,,Benchmark,82
+,PlanBench,PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change,In-Context-Learning,https://arxiv.org/abs/2206.10498,,,2022/06/21,,Benchmark,88
+,,BitNet: Scaling 1-bit Transformers for Large Language Models,"LLM, Scaling",https://arxiv.org/abs/2310.11453,,,,,,220
+,llama-gpt,"A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.","LLM, Open-source",,https://github.com/getumbrel/llama-gpt,,,,,141
+,LLaMA,LLaMA: Open and Efficient Foundation Language Models,"Foundation, LLM, Open-source",https://arxiv.org/abs/2302.13971,,,2023/02/27,,Open sourced LLM,92
+,OpenFlamingo,OpenFlamingo: An Open-Source Framework for Training Large Autoregressive Vision-Language Models,"LLM, Open-source",https://arxiv.org/abs/2308.01390,,,2023/08/02,,Open sourced LLM,45
+,InstructBLIP,InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,"LLM, Open-source",https://arxiv.org/abs/2305.06500,,,2023/05/11,,Open sourced LLM,93
+,ChatBridge,ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst,"LLM, Open-source",https://arxiv.org/abs/2305.16103,,,2023/05/25,,Open sourced LLM,73
+,GPT3,Language Models are Few-Shot Learners,LLM,https://arxiv.org/abs/2005.14165,,,2020/05/28,,Closed sourced LLM,89
+,GPT4,GPT-4 Technical Report,"GPT4, LLM",https://arxiv.org/abs/2303.08774,,,2023/03/15,,Closed sourced LLM,91
+,InstructGPT,Training language models to follow instructions with human feedback,"Instruction-Turning, LLM",https://arxiv.org/abs/2203.02155,,,2022/03/04,,Instruction Turning,109
+,LLaVA,Visual Instruction Tuning,"Instruction-Turning, LLM, PEFT",https://arxiv.org/abs/2304.08485,,,2023/04/17,,Instruction Turning,43
+,MiniGPT-4,MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models,"Instruction-Turning, LLM",https://arxiv.org/abs/2304.10592,,,2023/04/20,,Instruction Turning,21
+,FLAN,Finetuned Language Models Are Zero-Shot Learners,"Instruction-Turning, LLM, Zero-shot",https://arxiv.org/abs/2109.01652,,,2021/09/03,,Instruction Turning,77
+,LLaMA-adapter,LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention,"Instruction-Turning, LLM, PEFT",https://arxiv.org/abs/2303.16199,,,2023/03/28,,Instruction Turning,108
+,Self-Instruct,Self-Instruct: Aligning Language Models with Self-Generated Instructions,"Instruction-Turning, LLM",https://arxiv.org/abs/2212.10560,,,2022/12/20,,Instruction Turning,103
+,Path planners,Can Large Language Models be Good Path Planners? A Benchmark and Investigation on Spatial-temporal Reasoning,"LLM, Spacial",https://arxiv.org/abs/2310.03249,,,2023/10/05,,Spatial Understanding,57
+,NL2TL,NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models,"LLM, Temporal Logics",https://arxiv.org/abs/2305.07766,,,2023/05/12,,Temporal Logics,50
+,GPT4Vis,GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?,"LLM, Zero-shot",https://arxiv.org/abs/2311.15732,,,2023/11/27,,Quantitive Analysis,18
+,Gemini vs GPT-4V,Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases,LLM,https://arxiv.org/abs/2312.15011,,,2023/12/22,,Quantitive Analysis,44
+,A Survey of Large Language Models,A Survey of Large Language Models,"LLM, Survey",https://arxiv.org/abs/2303.18223,,,2023/03/31,,Survey Papers,58
+,MemoryBank,MemoryBank: Enhancing Large Language Models with Long-Term Memory,"LLM, Memory",https://arxiv.org/abs/2305.10250,,,2023/05/17,,Memory,101
+,Reasoning in Large Language Models,Towards Reasoning in Large Language Models: A Survey,"LLM, Reasoning, Survey",https://arxiv.org/abs/2212.10403,,,2022/12/20,,Survey Paper,48
+,ChemCrow,ChemCrow: Augmenting large-language models with chemistry tools,,,,,,,,166
+,,FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation,"RAG, Temporal Logics",https://arxiv.org/abs/2310.03214,,,,,,221
+,,Large Language Models for Information Retrieval: A Survey,"RAG, Survey",,,,,,,222
+,,TinyLLaVA: A Framework of Small-scale Large Multimodal Models,"LLaVA, VLM",https://arxiv.org/abs/2402.14289,,,,,,223
+,,Recognize Anything: A Strong Image Tagging Model,Perception,https://arxiv.org/abs/2306.03514,,,,,,224
+,OmniACT,OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web,"Agent, Web",https://arxiv.org/abs/2402.17553,,,,,,225
+,,Video as the New Language for Real-World Decision Making,"Agent, Video-for-Agent",,,,,,,226
+,,LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models,"Agent, LLM, Planning",,,,,,,227
+,,swarms,Agent,,https://github.com/kyegomez/swarms,,,,,229
+,,Gemma: Introducing new state-of-the-art open models,Open-source,https://blog.google/technology/developers/gemma-open-models/,,,,,,230
+,,Awesome-Diffusion-Models,"Awesome Repo, Diffusion",,https://github.com/diff-usion/Awesome-Diffusion-Models,,,,,232
+,,Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots,"Robot, Zero-shot",,,,,,,233
+,,Chain-of-Thought Reasoning Without Prompting,Reasoning,https://arxiv.org/abs/2402.10200,,,,,,234
+,,MM-LLMs: Recent Advances in MultiModal Large Language Models,"Survey, VLM",,,,,,,235
+,,,VLM,,,,,,,236
+,,ReFT: Reasoning with Reinforced Fine-Tuning,"Reasoning, Reinforcement-Learning",,,,,,,237
+,,Generative Expressive Robot Behaviors using Large Language Models,Robot,,,,,,,241
+,,"A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions","Hallucination, Survey",https://arxiv.org/abs/2311.05232,,,,,,242
+,,Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens,Context-Window,,,,,,,243
+,,Advances in 3D Generation: A Survey,"Generation, Survey",,,,,,,244
+,,A Survey on Evaluation of Large Language Models,"Evaluation, LLM, Survey",https://arxiv.org/abs/2307.03109,,,,,,245
+,,DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models,"Math, Reasoning",,,,,,,246
+,,Contrastive Chain-of-Thought Prompting,Reasoning,,,,,,,247
+,,"Retrieval-Augmented Generation for Large Language ","RAG, Survey",,,,,,,248
+,,Rephrase and Respond(RaR),Reasoning,,,,,,,249
+,,Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models,Reasoning,,,,,,,250
+,,OS-Copilot: Towards Generalist Computer Agents with Self-Improvement,"Agent, Web",,,,,,,251
