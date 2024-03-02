@@ -4,8 +4,7 @@
 ](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
 
 ## Target fields
-Reasoning, Agent, Reinforcement learning, Robotics, Prompt engineering, CoT, ICL, Multimodal LLM(LiDAR), Instruction turning, VQA, Data generation, Driving, Feedback, VLM, PEFT, RLHF, RAG (retrieval augmented generation)
-
+UpdatedDaily/234Papers/CoT/VLM/Quantization/Grounding/Text2IMG&VID/Prompt/Reasoning/Robot/Agent/Planning/RL/Feedback/In-Context-Learning/Instruction-Tuning/PEFT/RLHF/RAG/Embodied/VQA/Hallucination
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)<br>
