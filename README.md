@@ -3,7 +3,8 @@
 ](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
 
 ## Target fields
-UpdatedDaily/234Papers/CoT/VLM/Quantization/Grounding/Text2IMG&VID/Prompt/Reasoning/Robot/Agent/Planning/RL/Feedback/In-Context-Learning/Instruction-Tuning/PEFT/RLHF/RAG/Embodied/VQA/Hallucination
+CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot /
+
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)<br>
