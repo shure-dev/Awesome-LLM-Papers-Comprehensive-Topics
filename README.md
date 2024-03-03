@@ -1,4 +1,6 @@
-# 🔥We are working on [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4), Last updated on March 1st 2024 [Project Page](https://shure-dev.github.io/)
+# World's Most Comprehensive Curated List of LLM Papers & Repositories
+# [Project Page](https://shure-dev.github.io/), [Notion](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
+
 [<img width="1357" alt="image" src="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">
 ](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
 
