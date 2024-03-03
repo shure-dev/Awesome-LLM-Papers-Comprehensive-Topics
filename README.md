@@ -6,6 +6,9 @@
 ## Target fields
 CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot /
 
+## Mission
+Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM (Large Language Models) that are organized and essential for researchers striving to stay abreast of developments in the field.
+
 ## Awesome repos
 [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)<br>
 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)<br>
