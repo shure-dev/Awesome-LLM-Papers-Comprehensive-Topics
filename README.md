@@ -6,7 +6,8 @@ CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot
 ## Mission
 Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM (Large Language Models) that are organized and essential for researchers striving to stay abreast of developments in the field.
 
-## Notion Table
+## Notion Table 
+https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=74
 [<img width="1357" alt="image" src="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
 
 
