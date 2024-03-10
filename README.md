@@ -1,10 +1,11 @@
+last updated: 10.3.2024
 # World's Most Comprehensive Curated List of LLM Related Papers & Repositories[[Project Page](https://shure-dev.github.io/)][[Notion Table](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)]
 
 ## Target fields
 CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech
 
 ## Mission
-Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM (Large Language Models) that are organized and essential for researchers striving to stay abreast of developments in the field.
+Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM related that are organized and essential for researchers striving to stay abreast of developments in the field.
 
 ## Notion Table 
 https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=74
