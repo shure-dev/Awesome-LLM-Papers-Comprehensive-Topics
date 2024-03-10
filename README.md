@@ -14,7 +14,9 @@ https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d
 ## 🔥We are working on only notion now
 This repo is not updated anymore
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX3JhbnhxRFNBd1JsNVlBZER5Vk5pRGRXbGZXOWVHdDRFRTZQMw==#shure-dev/Awesome-LLM-Papers-Toward-AGI&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shure-dev/Awesome-LLM-Papers-Toward-AGI&type=Date)](https://star-history.com/#shure-dev/Awesome-LLM-Papers-Toward-AGI&Date)
 
 
 
