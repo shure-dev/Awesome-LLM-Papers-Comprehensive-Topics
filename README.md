@@ -9,7 +9,7 @@
   </a>
   
   <p align="center">
-        Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM-related that are organized and essential for researchers striving to stay abreast of developments in the field. Our target topics are very comprehensive as follows.
+        We provide awesome papers and repos for very comprehensive as follows.
   </p>
   <p align="center">
         CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech
