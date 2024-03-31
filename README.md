@@ -1,21 +1,30 @@
-# Toward World's Most Comprehensive Curated List of LLM Related Papers & Repositories[[Project Page](https://shure-dev.github.io/)][[Notion Table](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)]
+<div align="center">
 
-## Target fields
-CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech
+  <h1 align="center">
+        Awesome-LLM-related-Papers-Comprehensive-Topics
+    </h1>
 
-## Mission
-Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM related that are organized and essential for researchers striving to stay abreast of developments in the field.
+  <a href="https://natural-language-as-policies.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/ProjectPage-blue"></a>
+  <a href="https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4"><img alt="Static Badge" src="https://img.shields.io/badge/TableOnNotion-gray"></a>
+  </a>
+  
+  <p align="center">
+        Our mission is to provide a wide selection of the latest, high-quality papers in the rapidly evolving field of LLM-related that are organized and essential for researchers striving to stay abreast of developments in the field. Our target topics are very comprehensive as follows.
+  </p>
+  <p align="center">
+        CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech
+  </p>
 
-## Notion Table 
-https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=74
-[<img width="1357" alt="image" src="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4)
+<p align="center">
+**We strongly recommend checking our Notion table for more interactive experience.** 
+</p>
 
-## 🔥We are working on only notion now
-This repo is not updated anymore
+  <a href="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=shure-dev/Awesome-LLM-Papers-Toward-AGI&type=Date)](https://star-history.com/#shure-dev/Awesome-LLM-Papers-Toward-AGI&Date)
+  <img src="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e" alt="drawing" width="700"/>
+  </a>
+  
+</div>
 
 
 
