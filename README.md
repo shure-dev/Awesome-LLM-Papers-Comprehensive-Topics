@@ -26,7 +26,7 @@
   
 </div>
 
-| Category | Title | ArXiv Link | GitHub | Publication Date |
+| Category | Title | ArXiv | GitHub | Date |
 | --- | --- | --- | --- | --- |
 | Zero-shot | Can Foundation Models Perform Zero-Shot Task Speci<br>fication For Robot Manipulation? |  |  |  |
 | World-model | Leveraging Pre-trained Large Language Models to Co<br>nstruct and Utilize World Models for Model-based Task Planning |  |  |  |
