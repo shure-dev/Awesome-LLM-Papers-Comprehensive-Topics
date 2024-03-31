@@ -9,7 +9,7 @@
   </a>
   
   <p align="center">
-        We provide awesome papers and repos for very comprehensive topics as follows.
+        We provide awesome papers and repos on very comprehensive topics as follows.
   </p>
   <p align="center">
         CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech
