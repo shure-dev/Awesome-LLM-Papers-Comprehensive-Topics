@@ -11,9 +11,11 @@
   <p align="center">
         We provide awesome papers and repos on very comprehensive topics as follows.
   </p>
+  
   <p align="center">
     <code>CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt / Reasoning / Robot / Agent / Planning / RL / Feedback / InContextLearning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / ContextWindow / WorldModel / Memory / ZeroShot / RoPE / Speech</code>
   </p>
+  
 
 <p align="center">
     We strongly recommend checking our Notion table for an interactive experience.
@@ -25,8 +27,11 @@
   </a>
   
 </div>
+
 <br>
 
+
+<div align="center"> Number of papers and repos in total: 438</div>
 
 | Category | Title | Links | Date |
 | --- | --- | --- | --- |
