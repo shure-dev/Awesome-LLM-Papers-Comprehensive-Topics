@@ -20,7 +20,7 @@
   
 
 <p align="center">
-    We strongly recommend checking our Notion table for interactive experience.
+    We strongly recommend checking <a href="https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5">our Notion table</a> for interactive experience.
 </p>
 
   <a href="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">
