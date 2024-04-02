@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
   <h1 align="center">
         Awesome-LLM-related-Papers-Comprehensive-Topics
@@ -289,15 +289,15 @@
 | Code-as-Policies, Reinforcement-Learning, Reward | Code as Reward: Empowering Reinforcement Learning <br>with VLMs | [ArXiv](https://arxiv.org/abs/2402.04764) |  |
 | Code-as-Policies, Reasoning, VLM, VQA | ViperGPT: Visual Inference via Python Execution fo<br>r Reasoning | [ArXiv](https://arxiv.org/abs/2303.08128) | 2023/03/14 |
 | Code-as-Policies, Reasoning | Chain of Code: Reasoning with a Language Model-Aug<br>mented Code Emulator |  |  |
-| Code-as-Policies, PersonalCitation, Robot, Zero-shot | Socratic Models: Composing Zero-Shot Multimodal Re<br>asoning with Language | [ArXiv](https://arxiv.org/abs/2204.00598) | 2022/04/01 |
-| Code-as-Policies, PersonalCitation, Robot, State-Manage | Statler: State-Maintaining Language Models for Emb<br>odied Reasoning | [ArXiv](https://arxiv.org/abs/2306.17840) | 2023/06/30 |
+| Code-as-Policies, PersonalCitation, Robot, <br>Zero-shot | Socratic Models: Composing Zero-Shot Multimodal Re<br>asoning with Language | [ArXiv](https://arxiv.org/abs/2204.00598) | 2022/04/01 |
+| Code-as-Policies, PersonalCitation, Robot, <br>State-Manage | Statler: State-Maintaining Language Models for Emb<br>odied Reasoning | [ArXiv](https://arxiv.org/abs/2306.17840) | 2023/06/30 |
 | Code-as-Policies, PersonalCitation, Robot | ProgPrompt: Generating Situated Robot Task Plans u<br>sing Large Language Models | [ArXiv](https://arxiv.org/abs/2209.11302) | 2022/09/22 |
 | Code-as-Policies, PersonalCitation, Robot | RoboCodeX:Multi-modal Code Generation forRobotic B<br>ehavior Synthesis | [ArXiv](https://arxiv.org/abs/2402.16117) |  |
 | Code-as-Policies, PersonalCitation, Robot | RoboGPT: an intelligent agent of making embodied l<br>ong-term decisions for daily instruction tasks |  |  |
 | Code-as-Policies, PersonalCitation, Robot | ChatGPT for Robotics: Design Principles and Model <br>Abilities |  |  |
-| Code-as-Policies, Multimodal, OpenGVLab, PersonalCitation, Robot | Instruct2Act: Mapping Multi-modality Instructions <br>to Robotic Actions with Large Language Model | [ArXiv](https://arxiv.org/abs/2305.11176) | 2023/05/18 |
-| Code-as-Policies, Embodied, PersonalCitation, Robot | Code as Policies: Language Model Programs for Embo<br>died Control | [ArXiv](https://arxiv.org/abs/2209.07753) | 2022/09/16 |
-| Code-as-Policies, Embodied, PersonalCitation, Reasoning, Robot, Task-Decompose | Inner Monologue: Embodied Reasoning through Planni<br>ng with Language Models | [ArXiv](https://arxiv.org/abs/2207.05608) |  |
+| Code-as-Policies, Multimodal, OpenGVLab, <br>PersonalCitation, <br>Robot | Instruct2Act: Mapping Multi-modality Instructions <br>to Robotic Actions with Large Language Model | [ArXiv](https://arxiv.org/abs/2305.11176) | 2023/05/18 |
+| Code-as-Policies, Embodied, PersonalCitation, <br>Robot | Code as Policies: Language Model Programs for Embo<br>died Control | [ArXiv](https://arxiv.org/abs/2209.07753) | 2022/09/16 |
+| Code-as-Policies, Embodied, PersonalCitation, <br>Reasoning, <br>Robot, <br>Task-Decompose | Inner Monologue: Embodied Reasoning through Planni<br>ng with Language Models | [ArXiv](https://arxiv.org/abs/2207.05608) |  |
 | Code-LLM, Front-End | Design2Code: How Far Are We From Automating Front-<br>End Engineering? |  |  |
 | Code-LLM | StarCoder 2 and The Stack v2: The Next Generation |  |  |
 | Chain-of-Thought, Reasoning, Table | Chain-of-table: Evolving tables in the reasoning c<br>hain for table understanding |  |  |
@@ -327,8 +327,8 @@
 | Chain-of-Thought, In-Context-Learning | Algorithm of Thoughts: Enhancing Exploration of Id<br>eas in Large Language Models | [ArXiv](https://arxiv.org/abs/2308.10379) | 2023/08/20 |
 | Chain-of-Thought, GPT4, Reasoning, Robot | Look Before You Leap: Unveiling the Power ofGPT-4V<br> in Robotic Vision-Language Planning | [ArXiv](https://robot-vila.github.io/ViLa.pdf) | 2023/11/29 |
 | Chain-of-Thought, Embodied, Robot | EgoCOT: Embodied Chain-of-Thought Dataset for Visi<br>on Language Pre-training |  |  |
-| Chain-of-Thought, Embodied, PersonalCitation, Robot, Task-Decompose | EmbodiedGPT: Vision-Language Pre-Training via Embo<br>died Chain of Thought | [ArXiv](https://arxiv.org/abs/2305.15021) | 2023/05/24 |
-| Chain-of-Thought, Code-as-Policies, PersonalCitation, Robot | Demo2Code: From Summarizing Demonstrations to Synt<br>hesizing Code via Extended Chain-of-Thought | [ArXiv](https://arxiv.org/abs/2305.16744) |  |
+| Chain-of-Thought, Embodied, PersonalCitation, <br>Robot, <br>Task-Decompose | EmbodiedGPT: Vision-Language Pre-Training via Embo<br>died Chain of Thought | [ArXiv](https://arxiv.org/abs/2305.15021) | 2023/05/24 |
+| Chain-of-Thought, Code-as-Policies, <br>PersonalCitation, <br>Robot | Demo2Code: From Summarizing Demonstrations to Synt<br>hesizing Code via Extended Chain-of-Thought | [ArXiv](https://arxiv.org/abs/2305.16744) |  |
 | Chain-of-Thought, Code-as-Policies | Chain of Code: Reasoning with a Language Model-Aug<br>mented Code Emulator | [ArXiv](https://arxiv.org/abs/2312.04474) |  |
 | Caption, VLM, VQA | Caption Anything: Interactive Image Description wi<br>th Diverse Multimodal Controls | [ArXiv](https://arxiv.org/abs/2305.02677) | 2023/05/04 |
 | CRAG, RAG | Corrective Retrieval Augmented Generation | [ArXiv](https://arxiv.org/abs/2401.15884) |  |
