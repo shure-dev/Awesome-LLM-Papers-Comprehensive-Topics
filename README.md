@@ -46,7 +46,7 @@
 | AGI, Brain | Divergences between Language Models and Human Brains |  | |
 | AGI, Survey | Levels of AGI: Operationalizing Progress on the Path to AGI |  | |
 | APIs, Agent, Tool | Gorilla: Large Language Model Connected with Massive APIs | [ArXiv](https://arxiv.org/abs/2305.15334) | <img src="https://gorilla.cs.berkeley.edu/assets/img/gorilla_method.png" alt="Image" style="width:100px;"> |
-| Action-Generation, Generation, Prompting | Prompt a Robot to Walk with Large Language Models |  | |
+| Action-Generation, Generation, Prompting | Prompt a Robot to Walk with Large Language Models |  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYSFzjbtFCs-T81m8HNWgRN3k2bBFBj2KO8kb8Brcvg&s" alt="Image" style="width:100px;"> |
 | Action-Model, Agent, LAM | LaVague | [GitHub](https://github.com/lavague-ai/LaVague) | |
 | Agent | LLM as OS, Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem | [ArXiv](https://arxiv.org/abs/2312.03815) | |
 | Agent | AIOS: LLM Agent Operating System | [ArXiv](https://arxiv.org/abs/2403.16971) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFO2F4NIQ-EAzQYBBaPAYJQ0fHX64YfobmDIW5G6vsg&s" alt="Image" style="width:100px;"> |
@@ -100,7 +100,7 @@
 | Agent, GUI | ScreenAgent: A Computer Control Agent Driven by Visual Language Large Model | [GitHub](https://github.com/niuzaisheng/ScreenAgent) | |
 | Agent, GUI | CogAgent: A Visual Language Model for GUI Agents |  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF5VhNYFxjBT3fzwDAwvxsYEYw6yUbJhUDFrO8RBKSfQ&s" alt="Image" style="width:100px;"> |
 | Agent, GUI, MobileApp | You Only Look at Screens: Multimodal Chain-of-Action Agents |  | |
-| Agent, GUI, MobileApp | Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception |  | |
+| Agent, GUI, MobileApp | Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception |  | <img src="https://arxiv.org/html/2401.16158v1/extracted/5373117/first_image.jpg" alt="Image" style="width:100px;"> |
 | Agent, GUI, MobileApp | AppAgent: Multimodal Agents as Smartphone Users |  | |
 | Agent, GUI, Web | "What’s important here?": Opportunities and Challenges of Using LLMs in Retrieving Informatio from Web Interfaces |  | |
 | Agent, Game | LEARNING EMBODIED VISION-LANGUAGE PRO- GRAMMING FROM INSTRUCTION, EXPLORATION, AND ENVIRONMENTAL FEEDBACK |  | |
@@ -108,7 +108,7 @@
 | Agent, LLM, Planning | LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models |  | |
 | Agent, Memory, Minecraft | JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal Language Models | [ArXiv](https://arxiv.org/abs/2311.05997) | |
 | Agent, Memory, RAG | RAP: Retrieval-Augmented Planning with Contextual Memory for Multimodal LLM Agents | [ArXiv](https://arxiv.org/abs/2402.03610) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_QDJp6ApwRN6jlDLF7cOSVfD1TmXT_ZS72sniqN5caw&s" alt="Image" style="width:100px;"> |
-| Agent, Minecraft | Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory01 |  | |
+| Agent, Minecraft | Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory01 |  | <img src="https://preview.redd.it/ghost-in-the-minecraft-generally-capable-agents-for-open-v0-7pbizoalma2b1.png?width=1861&format=png&auto=webp&s=1814afe1616b141dd974d895d96950b687abc8a9" alt="Image" style="width:100px;"> |
 | Agent, Minecraft | S-Agents: Self-organizing Agents in Open-ended Environment |  | |
 | Agent, Minecraft | Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds |  | |
 | Agent, Minecraft | LARP: Language-Agent Role Play for Open-World Games |  | |
@@ -118,7 +118,7 @@
 | Agent, MobileApp | You Only Look at Screens: Multimodal Chain-of-Action Agents | [GitHub](https://github.com/cooelf/Auto-UI) | |
 | Agent, Multi | War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars | [ArXiv](https://arxiv.org/abs/2311.17227) | |
 | Agent, Multimodal, Robot | A Generalist Agent | [ArXiv](https://arxiv.org/abs/2205.06175) | |
-| Agent, Reasoning | AGENT INSTRUCTS LARGE LANGUAGE MODELS TO BE GENERAL ZERO-SHOT REASONERS |  | |
+| Agent, Reasoning | AGENT INSTRUCTS LARGE LANGUAGE MODELS TO BE GENERAL ZERO-SHOT REASONERS |  | <img src="https://d3i71xaburhd42.cloudfront.net/e754e647ce86774040b1f05706e9809f18929a6a/2-Figure1-1.png" alt="Image" style="width:100px;"> |
 | Agent, Reasoning | Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning |  | |
 | Agent, Reasoning, Zero-shot | Agent Instructs Large Language Models to be General Zero-Shot Reasoners | [ArXiv](https://arxiv.org/abs/2310.03710) | |
 | Agent, Reinforcement-Learning | STARLING: SELF-SUPERVISED TRAINING OF TEXTBASED REINFORCEMENT LEARNING AGENT WITH LARGE LANGUAGE MODELS |  | |
@@ -133,7 +133,7 @@
 | Agent, Soft-Dev | MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework |  | |
 | Agent, Survey | Large Multimodal Agents: A Survey |  | |
 | Agent, Survey | Agent AI: Surveying the Horizons of Multimodal Interaction |  | |
-| Agent, Survey | A Survey on LLM-based Autonomous Agents | [GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey) | |
+| Agent, Survey | A Survey on LLM-based Autonomous Agents | [GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey) | <img src="https://d3i71xaburhd42.cloudfront.net/28c6ac721f54544162865f41c5692e70d61bccab/4-Figure2-1.png" alt="Image" style="width:100px;"> |
 | Agent, Survey | The Rise and Potential of Large Language Model Based Agents: A Survey | [ArXiv](https://arxiv.org/abs/2309.07864) | |
 | Agent, Survey | A Survey on Large Language Model based Autonomous Agents | [ArXiv](https://arxiv.org/abs/2308.11432) | |
 | Agent, Tool | ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs |  | |
@@ -142,14 +142,14 @@
 | Agent, Web | OS-Copilot: Towards Generalist Computer Agents with Self-Improvement | [ArXiv](https://arxiv.org/abs/2402.07456) | |
 | Agent, Web | OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web | [ArXiv](https://arxiv.org/abs/2402.17553) | |
 | Agent, Web | WebLINX: Real-World Website Navigation with Multi-Turn Dialogue |  | |
-| Agent, Web | WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models |  | |
+| Agent, Web | WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models |  | <img src="https://d3i71xaburhd42.cloudfront.net/19261c6ad20c6c1e5585a8afcb88196173cbc8a6/2-Figure1-1.png" alt="Image" style="width:100px;"> |
 | Agent-Project, Code-LLM | open-interpreter | [GitHub](https://github.com/OpenInterpreter/open-interpreter) | |
 | Anything, CLIP, Perception | SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding |  | |
 | Anything, Caption, Perception, Segmentation | Segment and Caption Anything | [ArXiv](https://arxiv.org/abs/2312.00869) | <img src="https://d3i71xaburhd42.cloudfront.net/339ec34efdccdf2bf43bb817ef7cab5058bfa2e7/1-Figure1-1.png" alt="Image" style="width:100px;"> |
 | Anything, Depth | Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data |  | |
 | Anything, Perception, Segmentation | Segment Anything | [ArXiv](https://arxiv.org/abs/2304.02643) | |
 | Audio | Robust Speech Recognition via Large-Scale Weak Supervision |  | |
-| Audio2Video, Diffusion, Generation, Video | EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions |  | |
+| Audio2Video, Diffusion, Generation, Video | EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions |  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvx9wXPZF3MJFzjSO1GdIuR4ist9V2VcULNT5Sk2O78A&s" alt="Image" style="width:100px;"> |
 | Automate, Chain-of-Thought, Reasoning | Automatic Chain of Thought Prompting in Large Language Models | [ArXiv](https://arxiv.org/abs/2210.03493) | |
 | Automate, Prompting | Large Language Models Are Human-Level Prompt Engineers | [ArXiv](https://arxiv.org/abs/2211.01910) | |
 | Awesome Repo, Chain-of-Thought | Chain-of-ThoughtsPapers | [GitHub](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) | |
@@ -157,7 +157,7 @@
 | Awesome Repo, Compress | Awesome LLM Compression | [GitHub](https://github.com/HuangOwen/Awesome-LLM-Compression) | |
 | Awesome Repo, Diffusion | Awesome-Diffusion-Models | [GitHub](https://github.com/diff-usion/Awesome-Diffusion-Models) | |
 | Awesome Repo, Embodied | Awesome Embodied Vision | [GitHub](https://github.com/ChanganVR/awesome-embodied-vision) | |
-| Awesome Repo, Hallucination, Survey | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | [ArXiv](https://arxiv.org/abs/2311.05232), [GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) | |
+| Awesome Repo, Hallucination, Survey | A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | [ArXiv](https://arxiv.org/abs/2311.05232), [GitHub](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) | <img src="https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/layerx/1454988d-d891-4bb3-a38e-33aebb633385/a9c0f3addd469f4b26e263a34f4ad2e8.png" alt="Image" style="width:100px;"> |
 | Awesome Repo, IROS, Robot | IROS2023PaperList | [GitHub](https://github.com/gonultasbu/IROS2023PaperList) | |
 | Awesome Repo, In-Context-Learning | Paper List for In-context Learning | [GitHub](https://github.com/dqxiu/ICL_PaperList) | |
 | Awesome Repo, Japanese, LLM | 日本語LLMまとめ | [GitHub](https://github.com/llm-jp/awesome-japanese-llm) | |
@@ -239,12 +239,13 @@
 | Code-as-Policies, VLM, VQA | Visual Programming: Compositional visual reasoning without training | [ArXiv](https://arxiv.org/abs/2211.11559) | |
 | Compress, Prompting | Learning to Compress Prompts with Gist Tokens | [ArXiv](https://arxiv.org/abs/2304.08467) | |
 | Compress, Quantization, Survey | A Survey on Model Compression for Large Language Models | [ArXiv](https://arxiv.org/abs/2308.07633) | |
-| Compress, Scaling | (Long)LLMLingua: Enhancing Large Language Model Inference via Prompt Compression | [ArXiv](https://arxiv.org/abs/2310.05736) | |
-| Context-Window | RoFormer: Enhanced Transformer with Rotary Position Embedding |  | |
-| Context-Window, Foundation | Mamba: Linear-Time Sequence Modeling with Selective State Spaces |  | |
+| Compress, Scaling | (Long)LLMLingua: Enhancing Large Language Model Inference via Prompt Compression | [ArXiv](https://arxiv.org/abs/2310.05736) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZolIr3Ll-gV-B4cchzSugQsnUmkMsA-e4Fp45a_jJzA&s" alt="Image" style="width:100px;"> |
+| Context-Window | RoFormer: Enhanced Transformer with Rotary Position Embedding |  | <img src="https://miro.medium.com/v2/resize:fit:649/1*EzelwXA05g-1_MDCAjPHRg.png" alt="Image" style="width:100px;"> |
+| Context-Window, Foundation | Mamba: Linear-Time Sequence Modeling with Selective State Spaces |  | <img src="https://i.ytimg.com/vi/866SfiCHZ4o/maxresdefault.jpg" alt="Image" style="width:100px;"> |
 | Context-Window, Foundation, Gemini, LLM, Scaling | Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context |  | |
 | Context-Window, LLM, RoPE, Scaling | LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens | [ArXiv](https://arxiv.org/abs/2402.13753) | <img src="https://preview.redd.it/longrope-extending-llm-context-window-beyond-2-million-v0-dkyu60td2dkc1.jpg?width=1109&format=pjpg&auto=webp&s=a59c7ac6c1d8360450ddc4e121ed1150f4793cf0" alt="Image" style="width:100px;"> |
 | Context-Window, Reasoning, RoPE, Scaling | Resonance RoPE: Improving Context Length Generalization of Large Language Models |  | |
+| Context-Window, Scaling | LONGNET: Scaling Transformers to 1,000,000,000 Tokens | [ArXiv](https://arxiv.org/abs/2307.02486) | <img src="https://pbs.twimg.com/media/F0W92hXaAAQS0_k.jpg" alt="Image" style="width:100px;"> |
 | Context-Window, Scaling | Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens |  | |
 | Data-generation, Robot | RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation | [ArXiv](https://arxiv.org/abs/2311.01455) | |
 | Data-generation, Robot | GenSim: Generating Robotic Simulation Tasks via Large Language Models | [ArXiv](https://arxiv.org/abs/2310.01361) | |
@@ -262,7 +263,7 @@
 | Drive, Survey | A Survey on Multimodal Large Language Models for Autonomous Driving | [ArXiv](https://arxiv.org/abs/2311.12320) | |
 | Driving, Spacial | GPT-Driver: Learning to Drive with GPT | [ArXiv](https://arxiv.org/abs/2310.01415) | <img src="https://pointscoder.github.io/projects/gpt_driver/static/images/Arch5.png" alt="Image" style="width:100px;"> |
 | Embodied, LLM, Robot, Survey | The Development of LLMs for Embodied Navigation | [ArXiv](https://arxiv.org/abs/2311.00530) | |
-| Embodied, Reasoning, Robot | Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs | [ArXiv](https://arxiv.org/abs/2403.13801), [GitHub](https://github.com/shure-dev/NLaP) | |
+| Embodied, Reasoning, Robot | Natural Language as Polices: Reasoning for Coordinate-Level Embodied Control with LLMs | [ArXiv](https://arxiv.org/abs/2403.13801), [GitHub](https://github.com/shure-dev/NLaP) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfbEXAvxjSGt1J9ziEDKyhkxFQq1-U1S3z2splPQn_YA&s" alt="Image" style="width:100px;"> |
 | Embodied, Robot | Large Language Models as Generalizable Policies for Embodied Tasks |  | |
 | Embodied, Robot, Task-Decompose | Embodied Task Planning with Large Language Models | [ArXiv](https://arxiv.org/abs/2307.01848) | |
 | Embodied, World-model | Language Models Meet World Models: Embodied Experiences Enhance Language Models |  | |
@@ -293,7 +294,7 @@
 | Hallucination, Survey | Combating Misinformation in the Age of LLMs: Opportunities and Challenges | [ArXiv](https://arxiv.org/abs/2311.05656) | |
 | Image, LLaMA, Perception | LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models |  | |
 | In-Context-Learning | Can large language models explore in-context? |  | |
-| In-Context-Learning | What does CLIP know about a red circle? Visual prompt engineering for VLMs |  | |
+| In-Context-Learning | What does CLIP know about a red circle? Visual prompt engineering for VLMs |  | <img src="https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2Ff12ebcc9a0a7296cc6c85b243a003f7205c68b3d%2F1-Figure1-1.png&w=640&q=75" alt="Image" style="width:100px;"> |
 | In-Context-Learning | ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate | [ArXiv](https://arxiv.org/abs/2308.07201) | |
 | In-Context-Learning | ReAct: Synergizing Reasoning and Acting in Language Models | [ArXiv](https://arxiv.org/abs/2303.11366) | |
 | In-Context-Learning | Generative Agents: Interactive Simulacra of Human Behavior | [ArXiv](https://arxiv.org/abs/2304.03442) | |
@@ -301,7 +302,7 @@
 | In-Context-Learning | Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models | [ArXiv](https://arxiv.org/abs/2206.04615) | |
 | In-Context-Learning, Instruction-Turning | In-Context Instruction Learning |  | <img src="https://pbs.twimg.com/media/FqGlB2lWwAAPyX3.jpg" alt="Image" style="width:100px;"> |
 | In-Context-Learning, Perception, Vision | Visual In-Context Prompting |  | <img src="https://i.ytimg.com/vi/6_xjjbaKwjA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBcgVCh_MA8=&rs=AOn4CLCLIKY7b56LPzhA1vl0k8RS1jgN4w" alt="Image" style="width:100px;"> |
-| In-Context-Learning, Prompt-Tuning | Visual Prompt Tuning |  | |
+| In-Context-Learning, Prompt-Tuning | Visual Prompt Tuning |  | <img src="https://raw.githubusercontent.com/KMnP/vpt/main/imgs/teaser.png" alt="Image" style="width:100px;"> |
 | In-Context-Learning, Reinforcement-Learning | AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents |  | |
 | In-Context-Learning, Scaling | Rethinking the Role of Scale for In-Context Learning: An Interpretability-based Case Study at 66 Billion Scale |  | |
 | In-Context-Learning, Scaling | Structured Prompting: Scaling In-Context Learning to 1,000 Examples |  | |
@@ -347,7 +348,7 @@
 | LLM, Temporal Logics | NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models | [ArXiv](https://arxiv.org/abs/2305.07766) | |
 | LLM, Zero-shot | GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition? | [ArXiv](https://arxiv.org/abs/2311.15732) | |
 | LLaMA, Lightweight, Open-source | MobiLlama: Towards Accurate and Lightweight Fully Transparent GPT |  | |
-| LLaVA, VLM | TinyLLaVA: A Framework of Small-scale Large Multimodal Models | [ArXiv](https://arxiv.org/abs/2402.14289) | |
+| LLaVA, VLM | TinyLLaVA: A Framework of Small-scale Large Multimodal Models | [ArXiv](https://arxiv.org/abs/2402.14289) | <img src="https://lh7-us.googleusercontent.com/GbP7_I6N10hSV_4x6XVddgzApc1pCz2PylfJ28soBlWGt42WLS_UYiZZtBG_uHMqrFrjet0eZVGiTPetBaJRoeJ-1y68et9ek9TegiEOO2JVmy9VYbGwm_ofzJRTTYHGXfm51JMFVWZ798Bk3ERQqjs" alt="Image" style="width:100px;"> |
 | Lab | Imperial College London - Zeroshot trajectory |  | |
 | Lab | OpenGVLab | [GitHub](https://github.com/OpenGVLab) | |
 | Lab | Knowledge Engineering Group (KEG) & Data Mining at Tsinghua University -  CogVLM |  | |
@@ -398,7 +399,7 @@
 | Prompting | Contrastive Chain-of-Thought Prompting |  | |
 | Prompting, Survey | A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications |  | |
 | Quantization, Scaling | SliceGPT: Compress Large Language Models by Deleting Rows and Columns |  | |
-| RAG | Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity | [ArXiv](https://arxiv.org/abs/2403.14403) | |
+| RAG | Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity | [ArXiv](https://arxiv.org/abs/2403.14403) | <img src="https://pbs.twimg.com/media/GJTnvhBbsAAT8Po?format=jpg&name=4096x4096" alt="Image" style="width:100px;"> |
 | RAG | RAFT: Adapting Language Model to Domain Specific RAG | [ArXiv](https://arxiv.org/abs/2403.10131) | |
 | RAG | RAG-Fusion: a New Take on Retrieval-Augmented Generation | [ArXiv](https://arxiv.org/abs/2402.03367) | |
 | RAG | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection |  | |
@@ -424,7 +425,7 @@
 | Reasoning, Symbolic | Symbol-LLM: Leverage Language Models for Symbolic System in Visual Human Activity Reasoning |  | |
 | Reasoning, Table | Large Language Models are few(1)-shot Table Reasoners | [ArXiv](https://arxiv.org/abs/2210.06710) | |
 | Reasoning, VLM, VQA | MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action | [ArXiv](https://arxiv.org/abs/2303.11381) | |
-| Reasoning, Zero-shot | Large Language Models are Zero-Shot Reasoners |  | |
+| Reasoning, Zero-shot | Large Language Models are Zero-Shot Reasoners |  | <img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/05/image-90.png?resize=950%2C501&ssl=1" alt="Image" style="width:100px;"> |
 | Reinforcement-Learning | Large Language Models Are Semi-Parametric Reinforcement Learning Agents |  | |
 | Reinforcement-Learning | RLang: A Declarative Language for Describing Partial World Knowledge to Reinforcement Learning Agents |  | |
 | Resource | [Resource] arxiv-sanity | [ArXiv](https://arxiv-sanity-lite.com/) | |
@@ -455,16 +456,15 @@
 | Robot, Zero-shot | Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting |  | |
 | Robot, Zero-shot | Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots |  | |
 | Robot, Zero-shot | BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning | [ArXiv](https://arxiv.org/abs/2202.02005) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGz8vcNIUjIZmwpap0f2epSp-wM7IMuRoj1Huk-2_&s" alt="Image" style="width:100px;"> |
-| Scaling | LONGNET: Scaling Transformers to 1,000,000,000 Tokens | [ArXiv](https://arxiv.org/abs/2307.02486) | |
-| Sora, Text-to-Video | Mora: Enabling Generalist Video Generation via A Multi-Agent Framework | [ArXiv](https://arxiv.org/abs/2403.13248) | |
+| Sora, Text-to-Video | Mora: Enabling Generalist Video Generation via A Multi-Agent Framework | [ArXiv](https://arxiv.org/abs/2403.13248) | <img src="https://arxiv.org/html/2403.13248v1/x8.png" alt="Image" style="width:100px;"> |
 | Sora, Text-to-Video | Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models |  | |
 | Survey | Efficient Large Language Models: A Survey | [ArXiv](https://arxiv.org/abs/2312.03863), [GitHub](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) | |
-| Survey, TimeSeries | Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook |  | |
+| Survey, TimeSeries | Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook |  | <img src="https://d3i71xaburhd42.cloudfront.net/5b038c1a93967072cc76689fd805e756f804cc42/2-Figure1-1.png" alt="Image" style="width:100px;"> |
 | Survey, Training | Understanding LLMs: A Comprehensive Overview from Training to Inference |  | |
 | Survey, VLM | MM-LLMs: Recent Advances in MultiModal Large Language Models |  | |
 | Survey, Video | Video Understanding with Large Language Models: A Survey |  | |
 | Temporal | Explorative Inbetweening of Time and Space | [ArXiv](https://arxiv.org/abs/2403.14611) | |
-| Tex2Img | Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation | [ArXiv](https://arxiv.org/abs/2403.16990) | |
+| Tex2Img | Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation | [ArXiv](https://arxiv.org/abs/2403.16990) | <img src="https://omer11a.github.io/bounded-attention/static/images/xl_results/8.jpg" alt="Image" style="width:100px;"> |
 | Text-to-Image, World-model | World Model on Million-Length Video And Language With RingAttention |  | |
 | VLM | ScreenAI: A Vision-Language Model for UI and Infographics Understanding |  | |
 | VLM | PaLM: Scaling Language Modeling with Pathways | [ArXiv](https://arxiv.org/abs/2204.02311) | |
@@ -472,11 +472,11 @@
 | VLM, VQA | CogVLM: Visual Expert for Pretrained Language Models | [ArXiv](https://arxiv.org/abs/2311.03079) | |
 | VLM, VQA | Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models | [ArXiv](https://arxiv.org/abs/2304.09842) | |
 | VLM, World-model | Large World Model | [ArXiv](https://arxiv.org/abs/2402.08268) | |
-| ViFM, Video | InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding | [ArXiv](https://arxiv.org/abs/2403.15377), [GitHub](https://github.com/OpenGVLab/InternVideo2/) | |
+| ViFM, Video | InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding | [ArXiv](https://arxiv.org/abs/2403.15377), [GitHub](https://github.com/OpenGVLab/InternVideo2/) | <img src="https://media.licdn.com/dms/image/D4E12AQEmYG1sedv9hg/article-cover_image-shrink_720_1280/0/1711664275358?e=2147483647&v=beta&t=rHsko-hNau4Mb0v8CEtPlaDzPsNJwkCI31w9p3AxEVk" alt="Image" style="width:100px;"> |
 | World-model | Learning to Model the World with Language | [ArXiv](https://arxiv.org/abs/2308.01399) | <img src="https://preview.redd.it/learning-to-model-the-world-with-language-uc-berkeley-2023-v0-8kluures85gb1.jpg?width=1358&format=pjpg&auto=webp&s=1f8b9a5c83f3e911ee170de7726cd2ee46262f74" alt="Image" style="width:100px;"> |
 | World-model | Diffusion World Model | [ArXiv](https://arxiv.org/abs/2402.03570) | |
 | World-model | Learning to Model the World with Language | [ArXiv](https://arxiv.org/abs/2308.01399) | |
 | World-model | Language Models Meet World Models | [ArXiv](https://arxiv.org/abs/2305.10626) | |
 | World-model | Learning and Leveraging World Models in Visual Representation Learning |  | |
-| World-model | Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning |  | |
+| World-model | Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning |  | <img src="https://www.catalyzex.com/_next/image?url=https%3A%2F%2Fd3i71xaburhd42.cloudfront.net%2F4f601b4e561557c7a0bd5a741a54cabaec7dc70e%2F4-Figure1-1.png&w=640&q=75" alt="Image" style="width:100px;"> |
 | Zero-shot | Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? |  | |
