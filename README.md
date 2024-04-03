@@ -20,7 +20,7 @@
   
 
 <p align="center">
-    We strongly recommend checking <a href="https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5">our Notion table</a> for interactive experience.
+    We strongly recommend checking our Notion table for interactive experience.
 </p>
 
   <a href="https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI/assets/61527175/84447574-1134-4b0d-8442-f509162da10e">
@@ -480,3 +480,5 @@
 | World-model | Learning and Leveraging World Models in Visual Representation Learning |  |  |
 | World-model | Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning |  |  |
 | Zero-shot | Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? |  |  |
+
+[![Star History Chart](https://api.star-history.com/svg?repos=shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&type=Date)](https://star-history.com/#shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&Date)
