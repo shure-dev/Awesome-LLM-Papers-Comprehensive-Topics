@@ -481,4 +481,8 @@
 | World-model | Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning |  |  |
 | Zero-shot | Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation? |  |  |
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&type=Date)](https://star-history.com/#shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&Date)
+<div align="center">
+    <a href="https://star-history.com/#shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&Date">
+        <img src="https://api.star-history.com/svg?repos=shure-dev/Awesome-LLM-related-Papers-Comprehensive-Topics&type=Date" alt="Star History Chart">
+    </a>
+</div>
