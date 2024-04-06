@@ -40,7 +40,7 @@
 | --- | --- | --- | --- |
 | 3D, GPT4, VLM | GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation | [ArXiv](https://arxiv.org/abs/2401.04092) |  |
 | 3D, Open-source, Perception, Robot | 3D-LLM: Injecting the 3D World into Large Language Models | [ArXiv](https://arxiv.org/abs/2307.12981) | 2023/07/24 |
-| AGI, Agent | OpenAGI: When LLM Meets Domain Experts |  |  |
+| AGI, Agent | OpenAGI: When LLM Meets Domain Experts | [ArXiv](https://arxiv.org/abs/2304.04370), [GitHub](https://github.com/agiresearch/OpenAGI) | 2023/04/10 |
 | AGI, Awesome Repo, Survey | Awesome-LLM-Papers-Toward-AGI | [GitHub](https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI) |  |
 | AGI, Brain | When Brain-inspired AI Meets AGI |  |  |
 | AGI, Brain | Divergences between Language Models and Human Brains |  |  |
@@ -183,8 +183,8 @@
 | Benchmark, Sora, Text-to-Video | LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models01 |  |  |
 | Brain | A Neuro-Mimetic Realization of the Common Model of Cognition via Hebbian Learning and Free Energy Minimization |  |  |
 | Brain | LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model |  |  |
-| Brain, Conscious | Could a Large Language Model be Conscious? |  |  |
-| Brain, Conscious | Could a Large Language Model be Conscious? |  |  |
+| Brain, Conscious | Could a Large Language Model be Conscious? | [ArXiv](https://arxiv.org/abs/2303.07103) | 2023/03/04 |
+| Brain, Conscious | Could a Large Language Model be Conscious? | [ArXiv](https://arxiv.org/abs/2303.07103) | 2023/03/04 |
 | Brain, Instruction-Turning | Instruction-tuning Aligns LLMs to the Human Brain |  |  |
 | CRAG, RAG | Corrective Retrieval Augmented Generation | [ArXiv](https://arxiv.org/abs/2401.15884) |  |
 | Caption, VLM, VQA | Caption Anything: Interactive Image Description with Diverse Multimodal Controls | [ArXiv](https://arxiv.org/abs/2305.02677) | 2023/05/04 |
