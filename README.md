@@ -183,8 +183,8 @@
 | Benchmark, Sora, Text-to-Video | LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models01 |  |  |
 | Brain | A Neuro-Mimetic Realization of the Common Model of Cognition via Hebbian Learning and Free Energy Minimization |  |  |
 | Brain | LLM-BRAIn: AI-driven Fast Generation of Robot Behaviour Tree based on Large Language Model |  |  |
-| Brain, Conscious | Could a Large Language Model be Conscious? |  |  |
-| Brain, Conscious | Could a Large Language Model be Conscious? |  |  |
+| Brain, Conscious | Could a Large Language Model be Conscious? | [ArXiv](https://arxiv.org/abs/2303.07103) | 2023/03/04 |
+| Brain, Conscious | Could a Large Language Model be Conscious? | [ArXiv](https://arxiv.org/abs/2303.07103) | 2023/03/04 |
 | Brain, Instruction-Turning | Instruction-tuning Aligns LLMs to the Human Brain |  |  |
 | CRAG, RAG | Corrective Retrieval Augmented Generation | [ArXiv](https://arxiv.org/abs/2401.15884) |  |
 | Caption, VLM, VQA | Caption Anything: Interactive Image Description with Diverse Multimodal Controls | [ArXiv](https://arxiv.org/abs/2305.02677) | 2023/05/04 |
