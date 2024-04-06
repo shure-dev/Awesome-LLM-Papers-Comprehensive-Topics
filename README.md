@@ -40,7 +40,7 @@
 | --- | --- | --- | --- |
 | 3D, GPT4, VLM | GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation | [ArXiv](https://arxiv.org/abs/2401.04092) |  |
 | 3D, Open-source, Perception, Robot | 3D-LLM: Injecting the 3D World into Large Language Models | [ArXiv](https://arxiv.org/abs/2307.12981) | 2023/07/24 |
-| AGI, Agent | OpenAGI: When LLM Meets Domain Experts |  |  |
+| AGI, Agent | OpenAGI: When LLM Meets Domain Experts | [ArXiv](https://arxiv.org/abs/2304.04370), [GitHub](https://github.com/agiresearch/OpenAGI) | 2023/04/10 |
 | AGI, Awesome Repo, Survey | Awesome-LLM-Papers-Toward-AGI | [GitHub](https://github.com/shure-dev/Awesome-LLM-Papers-Toward-AGI) |  |
 | AGI, Brain | When Brain-inspired AI Meets AGI |  |  |
 | AGI, Brain | Divergences between Language Models and Human Brains |  |  |
