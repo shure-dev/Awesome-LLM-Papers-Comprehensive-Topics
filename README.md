@@ -15,7 +15,7 @@
   </p>
   
   <p align="center">
-    <code>CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt Engineering / Reasoning / Robot / Agent / Planning / Reinforcement-Learning / Feedback / In-Context-Learning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / Context-Window / WorldModel / Memory / Zero-Shot / RoPE / Speech / Perception / Survey / Segmentation / Learge Action Model / Foundation / RoPE / LoRA</code>
+    <code>CoT / VLM / Quantization / Grounding / Text2IMG&VID / Prompt Engineering / Reasoning / Robot / Agent / Planning / Reinforcement-Learning / Feedback / In-Context-Learning / InstructionTuning / PEFT / RLHF / RAG / Embodied / VQA / Hallucination / Diffusion / Scaling / Context-Window / WorldModel / Memory / Zero-Shot / RoPE / Speech / Perception / Survey / Segmentation / Learge Action Model / Foundation / RoPE / LoRA / PPO / DPO </code>
   </p>
   
 
