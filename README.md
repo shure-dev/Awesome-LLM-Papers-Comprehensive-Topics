@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">
-        Awesome-LLM-related-Papers-Comprehensive-Topics
+        Awesome-LLM-Related-Papers-Comprehensive-Topics
     </h1>
 
   <a href="https://shure-dev.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/ProjectPage-blue"></a>
