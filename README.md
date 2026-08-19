@@ -526,6 +526,7 @@
 | Agent | CAMEL: Communicative Agents for “Mind” Exploration<br> of Large Language Model Society | [ArXiv](https://arxiv.org/pdf/2303.17760) |  |
 | Agent | XAgent: An Autonomous Agent for Complex Task Solvi<br>ng | [ArXiv](https://blog.x-agent.net/blog/xagent/) |  |
 | Agent | Generative Agents: Interactive Simulacra of Human <br>Behavior | [ArXiv](https://arxiv.org/abs/2304.03442) |  |
+| Agent | CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents | [ArXiv](https://arxiv.org/abs/2608.16897) | 2026/07/08 |
 | Agent | LLM+P: Empowering Large Language Models with Optim<br>al Planning Proficiency | [ArXiv](https://arxiv.org/abs/2304.11477) | 2023/04/22 |
 | Agent | AgentSims: An Open-Source Sandbox for Large Langua<br>ge Model Evaluation | [ArXiv](https://arxiv.org/abs/2308.04026) | 2023/08/08 |
 | Agent | Agents: An Open-source Framework for Autonomous La<br>nguage Agents | [ArXiv](https://arxiv.org/pdf/2309.07870) |  |
