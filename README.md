@@ -52,6 +52,12 @@
 | VisualPrompt | Set-of-Mark Prompting Unleashes Extraordinary Visu<br>al Grounding in GPT-4V | [ArXiv](https://arxiv.org/abs/2310.11441), [GitHub](https://som-gpt4v.github.io/) |  |
 | Video | MA-LMM: Memory-Augmented Large Multimodal Model fo<br>r Long-Term Video Understanding | [ArXiv](https://arxiv.org/abs/2404.05726) |  |
 | ViFM, Video | InternVideo2: Scaling Video Foundation Models for <br>Multimodal Video Understanding | [ArXiv](https://arxiv.org/abs/2403.15377), [GitHub](https://github.com/OpenGVLab/InternVideo2/) |  |
+| VLM, VQA, Grounding | VideoJev: System One Model for Video Understanding and Interaction | [ArXiv](https://arxiv.org/abs/2610.18615), [GitHub](https://github.com/MCG-NJU/VideoJev) | 2026/10/13 |
+| VLM, Video, Memory | OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction | [ArXiv](https://arxiv.org/abs/2610.01762), [GitHub](https://github.com/MCG-NJU/OneStreamer) | 2026/10/01 |
+| VLM, Grounding, Reinforcement-Learning | TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs | [ArXiv](https://arxiv.org/abs/2607.17423), [GitHub](https://github.com/MCG-NJU/TimeLens2) | 2026/07/19 |
+| VLM, Video, Open-source | VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding | [ArXiv](https://arxiv.org/abs/2607.14935), [GitHub](https://github.com/MCG-NJU/VideoChat3) | 2026/07/16 |
+| VLM, Reasoning, Tool, Reinforcement-Learning | Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning | [ArXiv](https://arxiv.org/abs/2601.23224), [GitHub](https://github.com/MCG-NJU/Video-o3) | 2026/01/30 |
+| VLM, Retrieval, Zero-Shot | FreeRet: MLLMs as Training-Free Retrievers | [ArXiv](https://arxiv.org/abs/2509.24621), [GitHub](https://github.com/MCG-NJU/FreeRet) | 2025/09/29 |
 | VLM, World-model | Large World Model | [ArXiv](https://arxiv.org/abs/2402.08268) |  |
 | VLM, VQA | CogVLM: Visual Expert for Pretrained Language Mode<br>ls | [ArXiv](https://arxiv.org/abs/2311.03079) | 2023/11/06 |
 | VLM, VQA | Chameleon: Plug-and-Play Compositional Reasoning w<br>ith Large Language Models | [ArXiv](https://arxiv.org/abs/2304.09842) | 2023/04/19 |
