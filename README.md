@@ -37,6 +37,12 @@
 
 | Category | Title | Links | Date |
 | --- | --- | --- | --- |
+| VLM, VQA, Grounding | VideoJev: System One Model for Video Understanding and Interaction | [ArXiv](https://arxiv.org/abs/2610.18615), [GitHub](https://github.com/MCG-NJU/VideoJev) | 2026/10/13 |
+| VLM, Video, Memory | OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction | [ArXiv](https://arxiv.org/abs/2610.01762), [GitHub](https://github.com/MCG-NJU/OneStreamer) | 2026/10/01 |
+| VLM, Grounding, Reinforcement-Learning | TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs | [ArXiv](https://arxiv.org/abs/2607.17423), [GitHub](https://github.com/MCG-NJU/TimeLens2) | 2026/07/19 |
+| VLM, Video, Open-source | VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding | [ArXiv](https://arxiv.org/abs/2607.14935), [GitHub](https://github.com/MCG-NJU/VideoChat3) | 2026/07/16 |
+| VLM, Reasoning, Tool, Reinforcement-Learning | Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning | [ArXiv](https://arxiv.org/abs/2601.23224), [GitHub](https://github.com/MCG-NJU/Video-o3) | 2026/01/30 |
+| VLM, Retrieval, Zero-Shot | FreeRet: MLLMs as Training-Free Retrievers | [ArXiv](https://arxiv.org/abs/2509.24621), [GitHub](https://github.com/MCG-NJU/FreeRet) | 2025/09/29 |
 | Zero-shot | Can Foundation Models Perform Zero-Shot Task Speci<br>fication For Robot Manipulation? |  |  |
 | World-model | Leveraging Pre-trained Large Language Models to Co<br>nstruct and Utilize World Models for Model-based Task Planning | [ArXiv](https://arxiv.org/pdf/2305.14909) | 2023/05/07 |
 | World-model | Learning and Leveraging World Models in Visual Rep<br>resentation Learning |  |  |
